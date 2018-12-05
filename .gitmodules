@@ -1,6 +1,3 @@
 [submodule "SIN/SIN213-Projeto de Algoritmos/3929"]
 	path = SIN/SIN213-Projeto de Algoritmos/3929
 	url = https://github.com/MatheusRV/Analysis-of-Algorithms-Course
-[submodule "SIN/SIN352-Redes de Computadores/3929"]
-	path = SIN/SIN352-Redes de Computadores/3929
-	url = https://github.com/MatheusRV/Computer-Networks-Course
