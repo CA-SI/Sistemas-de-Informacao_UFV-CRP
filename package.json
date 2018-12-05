@@ -1,0 +1,24 @@
+{
+  "name": "sistemas-de-informacao_ufv-crp",
+  "version": "0.0.1",
+  "description": "Repositório de Utilidades do Curso de Sistemas da UFV - CRP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP.git"
+  },
+  "author": "MatheusRV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/issues"
+  },
+  "homepage": "https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1"
+  }
+}
