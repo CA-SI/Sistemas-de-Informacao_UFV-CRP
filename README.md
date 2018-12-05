@@ -18,6 +18,7 @@ Você pode consultar o material disponível através do link https://ca-si.githu
 
 ## Como Enviar Conteúdo
 Você deve seguir os passos para a submissão de qualquer tipo de conteúdo.
+Requisitos: Git & Node (NPM)
 
 - Dê um Fork no projeto, ou simplesmente clique na caixa ao lado >>>
 [![GitHub forks](https://img.shields.io/github/forks/CA-SI/Sistemas-de-Informacao_UFV-CRP.svg?label=Fork&style=flat-square)](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/fork)
@@ -26,6 +27,9 @@ Você deve seguir os passos para a submissão de qualquer tipo de conteúdo.
 - Crie um branch com comando `git checkout -b [nome-do-branch]`
 - Adicione o seu material
 - Execute os comandos:
+    - `npm install`
+    - `npm run contributors:add -- <seu-usuario> doc`
+    - `npm run contributors:generate`
     - `git add -A`
     - `git commit -a -m "Informações sobre o Commit"`
 - Então em seguida envie suas mudanças para o seu fork com o comando `git push`
