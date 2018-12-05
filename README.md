@@ -19,14 +19,17 @@ Você pode consultar o material disponível através do link https://ca-si.githu
 ## Como Enviar Conteúdo
 Você deve seguir os passos para a submissão de qualquer tipo de conteúdo.
 
-- Dê um Fork no projeto, ou simplesmente clique nessa caixinha 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?label=Fork&style=flat-square)](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/fork)
-- Clone o projeto em sua maquina (`git clone https://github.com/<seu-usuario>/Sistemas-de-Informacao_UFV-CRP/`)
-- Crie um branch (`git checkout -b [nome-do-branch]`)
+- Dê um Fork no projeto, ou simplesmente clique na caixa ao lado >>>
+[![GitHub forks](https://img.shields.io/github/forks/CA-SI/Sistemas-de-Informacao_UFV-CRP.svg?label=Fork&style=flat-square)](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/fork)
+- Abra um terminal (seja Bash on Windows, Linux ou Git Bash)
+- Clone o projeto em sua maquina com `git clone https://github.com/<seu-usuario>/Sistemas-de-Informacao_UFV-CRP/`
+- Crie um branch com comando `git checkout -b [nome-do-branch]`
 - Adicione o seu material
-- Execute os comandos `git add -A` & `git commit -a -m "Informações sobre o Commit"`
+- Execute os comandos:
+    - `git add -A`
+    - `git commit -a -m "Informações sobre o Commit"`
 - Então em seguida envie suas mudanças para o seu fork com o comando `git push`
-- Agora você já pode enviar um pull request use o comando (`git request-pull https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP master`)
+- Agora você já pode enviar um pull request use o comando `git request-pull https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP master`
 
 
 ## Colaboradores
