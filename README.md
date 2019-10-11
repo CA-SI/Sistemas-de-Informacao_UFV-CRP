@@ -40,8 +40,8 @@ Requisitos: Git & Node (NPM)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;"/><br /><sub><b>Matheus Rocha Vieira</b></sub>](http://matheu.srv.br)<br />[💻](https://github.com/MatheusRV/sistemas-de-informacao_ufv-crp/commits?author=MatheusRV "Code") [🎨](#design-MatheusRV "Design") [📖](https://github.com/MatheusRV/sistemas-de-informacao_ufv-crp/commits?author=MatheusRV "Documentation") |
-| :---: |
+| [<img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;"/><br /><sub><b>Matheus Rocha Vieira</b></sub>](http://matheu.srv.br)<br />[💻](https://github.com/MatheusRV/sistemas-de-informacao_ufv-crp/commits?author=MatheusRV "Code") [🎨](#design-MatheusRV "Design") [📖](https://github.com/MatheusRV/sistemas-de-informacao_ufv-crp/commits?author=MatheusRV "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/12905770?v=4" width="100px;"/><br /><sub><b>Igor Alves</b></sub>](http://linkedin.com/in/igor-lucio-alves/)<br />[📖](https://github.com/MatheusRV/sistemas-de-informacao_ufv-crp/commits?author=iguit0 "Documentation") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este projeto segue a especificação [all-contributors](https://github.com/kentcdodds/all-contributors). Contribuições de qualquer tipo são bem vindas!
