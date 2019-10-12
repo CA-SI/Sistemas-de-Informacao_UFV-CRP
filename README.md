@@ -14,10 +14,11 @@ Você pode consultar o material disponível através do link https://ca-si.githu
 - Conteúdo de Licença Pública ou Livre pode ser enviado desde que relevante e categorizado devidamente ou você ter todas as licenças e direitos sobre o conteúdo que está enviando.
 - Pesquise antes, não é admitido conteúdo duplicado!
 - Categorize devidamente o envio, se ficou na dúvida envie um [issues](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/issues).
-- Novas Diretrizes em Discussão, [participe](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/issues/1).
+- Novas diretrizes em discussão, [participe](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/issues/1).
 
 ## Como Enviar Conteúdo
 Você deve seguir os passos para a submissão de qualquer tipo de conteúdo.
+
 Requisitos: Git & Node (NPM)
 
 - Dê um Fork no projeto, ou simplesmente clique na caixa ao lado >>>
@@ -33,7 +34,7 @@ Requisitos: Git & Node (NPM)
 - Agora você já pode enviar um pull request use o comando `git request-pull https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP master`
 
 ## Moderadores
-Para adicioanar um colaborador ao aceitar um Pull Request ou em um Issue comente o seguinte dizer
+Para adicioanar um colaborador ao aceitar um Pull Request ou em um Issue, comente o seguinte dizer
 `@all-contributors please add @jakebolam for infrastructure, tests and code` seguindo a [tabela All Contributors](https://allcontributors.org/docs/pt-br/emoji-key)
 
 ## Colaboradores
