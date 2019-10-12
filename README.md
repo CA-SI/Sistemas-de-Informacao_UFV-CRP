@@ -24,17 +24,17 @@ Requisitos: Git & Node (NPM)
 [![GitHub forks](https://img.shields.io/github/forks/CA-SI/Sistemas-de-Informacao_UFV-CRP.svg?label=Fork&style=flat-square)](https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP/fork)
 - Abra um terminal (seja Bash on Windows, Linux ou Git Bash)
 - Clone o projeto em sua maquina com `git clone https://github.com/<seu-usuario>/Sistemas-de-Informacao_UFV-CRP/`
-- Crie um branch com comando `git checkout -b [nome-do-branch]`
+- Crie um branch com comando `git checkout -b [nome-do-branch]`, geralmente seu nome
 - Adicione o seu material
 - Execute os comandos:
-    - `npm install`
-    - `npm run contributors:add -- <seu-usuario> doc`
-    - `npm run contributors:generate`
     - `git add -A`
-    - `git commit -a -m "Informações sobre o Commit"`
+    - `git commit -a -m "<informações-sobre-o-commit>"`
 - Então em seguida envie suas mudanças para o seu fork com o comando `git push`
 - Agora você já pode enviar um pull request use o comando `git request-pull https://github.com/CA-SI/Sistemas-de-Informacao_UFV-CRP master`
 
+## Moderadores
+Para adicioanar um colaborador ao aceitar um Pull Request ou em um Issue comente o seguinte dizer
+`@all-contributors please add @jakebolam for infrastructure, tests and code` seguindo a [tabela All Contributors](https://allcontributors.org/docs/pt-br/emoji-key)
 
 ## Colaboradores
 
