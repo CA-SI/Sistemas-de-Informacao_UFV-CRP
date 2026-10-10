@@ -491,6 +491,7 @@ def indice_raiz(cat):
         rel = ", ".join(f"[{c}]({link(caminho(cat[c]))})" for c in LEGADO.get(d["codigo"], [])) or "—"
         out.append(f"| [{d['codigo']}]({link(caminho(d))}) | {d['nome']} | {rel} |")
     out += ["", "### Outras pastas", "",
+            "- [`guias`](guias) — guias do curso: matriz, TCC, extensão, optativas e matrizes anteriores",
             "- [`1-Artigos e Monografias`](1-Artigos%20e%20Monografias) — artigos, monografias e TCCs da comunidade",
             "- [`2-Interdisciplinar`](2-Interdisciplinar) — materiais que atendem a várias disciplinas",
             "- [`Z-Outros`](Z-Outros) — regulamentos, modelos de documento e links úteis"]
