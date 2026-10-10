@@ -77,10 +77,12 @@ Matemática discreta corresponde ao estudo de objetos que são, em geral, de tam
 - MENEZES, P.B. Matemática discreta para Computação e Informática. 2ª ed. Bookman, 2008.
 - ROSEN, K. H. Matemática discreta e suas aplicações. 6. ed. Editora McGraw Hill, São Paulo, 2008.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Mathematics for Computer Science (MIT 6.042J)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) — livro e aulas no MIT OpenCourseWare; em inglês
+- [Book of Proof (Richard Hammack)](https://open.umn.edu/opentextbooks/textbooks/book-of-proof) — livro aberto sobre técnicas de prova; em inglês
+- [Discrete Mathematics: An Open Introduction (Oscar Levin)](https://discrete.openmathbooks.org/dmoi4.html) — livro aberto; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

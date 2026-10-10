@@ -50,10 +50,15 @@ Conhecer os principais tipos de produção científica na computação; Conhecer
 - NASCIMENTO, Luiz Paulo do. Elaboração de projetos de pesquisa: monografia, dissertação, tese e estudo de caso, com base em metodologia científica. São Paulo: Cengage Learning, 2012. xiii, 149 p. ISBN 9788522111619 (broch.).
 - MELLO, Márcio Pupin de; PETERNELLI, Luiz Alexandre. Conhecendo o R: uma visão mais que estatística. Viçosa, MG: Ed. UFV, 2013 222 p. ISBN 9788572694957.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Python for Data Analysis, 3ª ed. (Wes McKinney)](https://wesmckinney.com/book/) — livro aberto; em inglês
+- [Portal de Periódicos CAPES](https://www.periodicos.capes.gov.br/) — acesso a bases pagas pela rede da UFV
+- [SBC OpenLib (SOL)](https://sol.sbc.org.br/) — anais e periódicos da Sociedade Brasileira de Computação
+- [Google Acadêmico](https://scholar.google.com/) — busca de artigos e citações
+- [Overleaf](https://www.overleaf.com/) — editor LaTeX online e colaborativo
+- [Modelo abnTeX2 do CASI para a UFV](https://github.com/CA-SI/modelo-documentos-abntex-UFV) — modelo de monografia e artigo
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

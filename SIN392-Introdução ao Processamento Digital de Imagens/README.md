@@ -67,10 +67,13 @@ Introduzir os conceitos fundamentais para representação e processamento de ima
 - GONZALEZ, R.; WOODS, R.E. Digital image processing. 3.ed. Prentice Hall, 2007.
 - SOLEM E. Programming Computer Vision with Python. O´REILLY, 2012.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Documentação do OpenCV](https://docs.opencv.org/4.x/) — tutoriais de processamento de imagens; em inglês
+- [scikit-image](https://scikit-image.org/docs/stable/) — processamento de imagens em Python; em inglês
+- [ImageProcessingPlace (Gonzalez & Woods)](https://www.imageprocessingplace.com/) — site do livro-texto com imagens e materiais; em inglês
+- [Fiji / ImageJ](https://imagej.net/software/fiji/) — software livre de análise de imagens
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

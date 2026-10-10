@@ -75,10 +75,14 @@ Fornecer as diretrizes e técnicas de projeto de interface com o usuário; apres
 - SHNEIDERMAN, B. O Laptop de Leonardo. 1ed. Nova Fronteira, 2006.
 - 9- Nielsen, J.; Budiu, R. Usabilidade Móvel. Elsevier Editora Ltda,Série Editora Campus, 2014. ISBN 978-85-352-6427-2.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [10 heurísticas de usabilidade (Nielsen Norman Group)](https://www.nngroup.com/articles/ten-usability-heuristics/) — em inglês
+- [Laws of UX](https://lawsofux.com/) — princípios de psicologia aplicados a interfaces; em inglês
+- [WCAG — diretrizes de acessibilidade (W3C)](https://www.w3.org/WAI/standards-guidelines/wcag/) — em inglês
+- [Interaction Design Foundation — Literature](https://ixdf.org/literature) — enciclopédia aberta de IHC; em inglês
+- [Material Design 3](https://m3.material.io/) — sistema de design do Google; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

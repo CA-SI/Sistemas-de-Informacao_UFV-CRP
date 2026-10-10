@@ -7,3 +7,6 @@
 - [x] Escrever `scripts/catalogo.py gerar` e gerar os READMEs.
 - [x] Atualizar o README da raiz (fluxograma, índice, optativas, matrizes anteriores).
 - [x] Verificar que todos os links do README da raiz resolvem.
+- [x] Curar `dados/referencias.json` e renderizar "Referências úteis" em todos os READMEs.
+- [x] Remover o aviso de pasta sem material; convite para contribuir no rodapé.
+- [x] Adicionar `verificar` e testar os links das referências.

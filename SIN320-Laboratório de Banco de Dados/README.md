@@ -80,10 +80,13 @@ Introduzir conceitos mais avançados relacionados com Banco de Dados, mostrando 
 - RAMAKRISHNAN, R. Sistemas de Gerenciamento de Bancos de Dados. 3. ed. McGraw-Hill, 2008.
 - ROB, P; CORONEL, C. Sistemas de Banco de Dados - Projeto, Implementação e Administração. 8ª Ed. Editora Cengage Learning. 2010. 744 p.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [PostgreSQL — Usando EXPLAIN](https://www.postgresql.org/docs/current/using-explain.html) — plano de execução de consultas; em inglês
+- [Use The Index, Luke!](https://use-the-index-luke.com/) — indexação e desempenho de SQL; em inglês
+- [PostgreSQL Exercises](https://pgexercises.com/) — exercícios de SQL avançado; em inglês
+- [CMU 15-445 — Database Systems](https://15445.courses.cs.cmu.edu/) — indexação, processamento de consultas e transações; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

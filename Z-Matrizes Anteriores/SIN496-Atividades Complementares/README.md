@@ -23,10 +23,11 @@ Estimular o estudante participar, desde o início do curso, de atividades Acadê
 1. **Atividades diversas, envolvendo práticas profissionais alternativas, participação e apresentação de trabalhos e ou resumos em seminários, conferências, semanas de estudos e similares, monitorias, realização de estágios não curriculares e de atividades de extensão, publicação de artigos em revistas ou outros meios biográficos e ou eletrônicos especializados. A carga horária será contabilizada mediante uma tabela de pontuação, após avaliação de relatório comprobatório das atividades cumpridas** (0 h)
    - Atividades diversas, envolvendo práticas profissionais                                 0h      210     0h       0h      210 alternativas, participação e apresentação de trabalhos e ou                                    h                        h resumos em seminários, conferências, semanas de estudos e similares, monitorias, realização de estágios não curriculares e de atividades de extensão, publicação de artigos em revistas ou outros meios biográficos e ou eletrônicos especializados. A carga horária será contabilizada mediante uma tabela de pontuação, após avaliação de relatório comprobatório das atividades cumpridas h                        h
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [Site do curso de Sistemas de Informação (UFV-CRP)](https://sin.crp.ufv.br/) — regulamentos, matriz e informativos
+- [Pró-Reitoria de Extensão e Cultura da UFV](https://www.pec.ufv.br/) — eventos e projetos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

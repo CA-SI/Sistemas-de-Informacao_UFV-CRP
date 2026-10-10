@@ -79,10 +79,14 @@ Compreender os fundamentos teóricos do Processamento de Linguagem Natural Aplic
 - VAJJALA, S.; MAJUMDER, B.; GUPTA, A. & SURANA, H. Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems. O'Reilly Media, 2020.
 - BIRD, S.; KLEIN, E.; LOPER, E. Natural language processing with Python: analyzing text with the natural language toolkit. O'Reilly Media, Inc, 2009.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) — livro aberto (Brasileiras em PLN)
+- [Speech and Language Processing, 3ª ed. (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/) — rascunho aberto; em inglês
+- [Natural Language Processing with Python (livro do NLTK)](https://www.nltk.org/book/) — em inglês
+- [spaCy](https://spacy.io/usage) — biblioteca de PLN com modelos para português; em inglês
+- [Hugging Face Learn](https://huggingface.co/learn) — cursos de transformers e LLMs; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

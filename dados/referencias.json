@@ -1,0 +1,2192 @@
+{
+ "MAP191": [
+  {
+   "titulo": "Khan Academy — Matemática",
+   "url": "https://pt.khanacademy.org/math",
+   "nota": "vídeos e exercícios em português"
+  },
+  {
+   "titulo": "OpenStax — College Algebra 2e",
+   "url": "https://openstax.org/details/books/college-algebra-2e",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "OpenStax — Precalculus 2e",
+   "url": "https://openstax.org/details/books/precalculus-2e",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "GeoGebra",
+   "url": "https://www.geogebra.org/",
+   "nota": "gráficos de funções e geometria interativa"
+  }
+ ],
+ "SIN111": [
+  {
+   "titulo": "CS50x — Introduction to Computer Science (Harvard)",
+   "url": "https://cs50.harvard.edu/x/",
+   "nota": "curso gratuito com vídeos e exercícios; em inglês"
+  },
+  {
+   "titulo": "Tutorial oficial de Python",
+   "url": "https://docs.python.org/pt-br/3/tutorial/",
+   "nota": "documentação em português"
+  },
+  {
+   "titulo": "Python Tutor",
+   "url": "https://pythontutor.com/",
+   "nota": "visualiza a execução de programas passo a passo"
+  },
+  {
+   "titulo": "Think Python, 3ª ed. (Allen Downey)",
+   "url": "https://allendowney.github.io/ThinkPython/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Beecrowd",
+   "url": "https://judge.beecrowd.com/",
+   "nota": "juiz online com problemas em português"
+  }
+ ],
+ "SIN130": [
+  {
+   "titulo": "forall x: Calgary",
+   "url": "https://forallx.openlogicproject.org/",
+   "nota": "livro aberto de lógica proposicional e de predicados; em inglês"
+  },
+  {
+   "titulo": "Open Logic Project",
+   "url": "https://openlogicproject.org/",
+   "nota": "textos abertos de lógica; em inglês"
+  },
+  {
+   "titulo": "Introduction to Logic (Stanford)",
+   "url": "http://intrologic.stanford.edu/",
+   "nota": "curso e ferramentas interativas; em inglês"
+  },
+  {
+   "titulo": "Tree Proof Generator",
+   "url": "https://www.umsu.de/trees/",
+   "nota": "gera tableaux para fórmulas de lógica"
+  }
+ ],
+ "SIN222": [
+  {
+   "titulo": "Information Systems for Business and Beyond",
+   "url": "https://open.umn.edu/opentextbooks/textbooks/information-systems-for-business-and-beyond",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+   "url": "https://sol.sbc.org.br/index.php/sbsi",
+   "nota": "anais na SBC OpenLib"
+  },
+  {
+   "titulo": "Sociedade Brasileira de Computação",
+   "url": "https://www.sbc.org.br/",
+   "nota": "eventos, comissões especiais e POSCOMP"
+  }
+ ],
+ "ADE104": [
+  {
+   "titulo": "OpenStax — Principles of Management",
+   "url": "https://openstax.org/details/books/principles-management",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "OpenStax — Organizational Behavior",
+   "url": "https://openstax.org/details/books/organizational-behavior",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Sebrae",
+   "url": "https://sebrae.com.br/",
+   "nota": "guias de gestão para pequenas empresas"
+  }
+ ],
+ "ESP105": [
+  {
+   "titulo": "OpenIntro Statistics",
+   "url": "https://www.openintro.org/book/os/",
+   "nota": "livro aberto com dados e exercícios; em inglês"
+  },
+  {
+   "titulo": "Seeing Theory (Brown University)",
+   "url": "https://seeing-theory.brown.edu/",
+   "nota": "probabilidade e estatística com visualizações interativas"
+  },
+  {
+   "titulo": "Khan Academy — Estatística e Probabilidade",
+   "url": "https://pt.khanacademy.org/math/statistics-probability",
+   "nota": "vídeos e exercícios em português"
+  },
+  {
+   "titulo": "R for Data Science, 2ª ed.",
+   "url": "https://r4ds.hadley.nz/",
+   "nota": "análise de dados com R; em inglês"
+  }
+ ],
+ "MAP112": [
+  {
+   "titulo": "MIT 18.06 — Linear Algebra (Gilbert Strang)",
+   "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Essence of Linear Algebra (3Blue1Brown)",
+   "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "nota": "série de vídeos com intuição geométrica; legendas em português"
+  },
+  {
+   "titulo": "Linear Algebra (Jim Hefferon)",
+   "url": "https://hefferon.net/linearalgebra/",
+   "nota": "livro aberto com exercícios resolvidos; em inglês"
+  },
+  {
+   "titulo": "Khan Academy — Álgebra Linear",
+   "url": "https://pt.khanacademy.org/math/linear-algebra",
+   "nota": "vídeos em português"
+  },
+  {
+   "titulo": "GeoGebra 3D",
+   "url": "https://www.geogebra.org/3d",
+   "nota": "visualização de vetores, retas e planos"
+  }
+ ],
+ "SIN101": [
+  {
+   "titulo": "Lei Geral de Proteção de Dados (Lei 13.709/2018)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+   "nota": "texto oficial"
+  },
+  {
+   "titulo": "Marco Civil da Internet (Lei 12.965/2014)",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+   "nota": "texto oficial"
+  },
+  {
+   "titulo": "Código de Ética da ACM",
+   "url": "https://www.acm.org/code-of-ethics",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Cetic.br",
+   "url": "https://cetic.br/",
+   "nota": "pesquisas sobre o uso de TIC no Brasil"
+  },
+  {
+   "titulo": "Computer History Museum",
+   "url": "https://computerhistory.org/",
+   "nota": "história da computação; em inglês"
+  }
+ ],
+ "SIN215": [
+  {
+   "titulo": "Projeto de Algoritmos em C (Paulo Feofiloff, IME-USP)",
+   "url": "https://www.ime.usp.br/~pf/algoritmos/",
+   "nota": "notas de aula em português"
+  },
+  {
+   "titulo": "VisuAlgo",
+   "url": "https://visualgo.net/",
+   "nota": "animações de estruturas de dados e algoritmos"
+  },
+  {
+   "titulo": "Data Structure Visualizations (USF)",
+   "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+   "nota": "animações interativas; em inglês"
+  },
+  {
+   "titulo": "Beej's Guide to C Programming",
+   "url": "https://beej.us/guide/bgc/",
+   "nota": "guia gratuito de C; em inglês"
+  },
+  {
+   "titulo": "cppreference — C",
+   "url": "https://en.cppreference.com/c",
+   "nota": "referência da linguagem e da biblioteca padrão; em inglês"
+  }
+ ],
+ "CRP297": [
+  {
+   "titulo": "OpenStax — Introduction to Sociology 3e",
+   "url": "https://openstax.org/details/books/introduction-sociology-3e",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Domínio Público",
+   "url": "http://www.dominiopublico.gov.br/",
+   "nota": "obras clássicas em domínio público"
+  },
+  {
+   "titulo": "SciELO Brasil",
+   "url": "https://www.scielo.br/",
+   "nota": "artigos científicos de acesso aberto"
+  }
+ ],
+ "SIN132": [
+  {
+   "titulo": "Mathematics for Computer Science (MIT 6.042J)",
+   "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/",
+   "nota": "livro e aulas no MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Book of Proof (Richard Hammack)",
+   "url": "https://open.umn.edu/opentextbooks/textbooks/book-of-proof",
+   "nota": "livro aberto sobre técnicas de prova; em inglês"
+  },
+  {
+   "titulo": "Discrete Mathematics: An Open Introduction (Oscar Levin)",
+   "url": "https://discrete.openmathbooks.org/dmoi4.html",
+   "nota": "livro aberto; em inglês"
+  }
+ ],
+ "SIN141": [
+  {
+   "titulo": "Refactoring.Guru — Padrões de Projeto",
+   "url": "https://refactoring.guru/pt-br/design-patterns",
+   "nota": "padrões GoF explicados em português"
+  },
+  {
+   "titulo": "The Java Tutorials (Oracle)",
+   "url": "https://docs.oracle.com/javase/tutorial/",
+   "nota": "tutorial oficial; em inglês"
+  },
+  {
+   "titulo": "Classes em Python — tutorial oficial",
+   "url": "https://docs.python.org/pt-br/3/tutorial/classes.html",
+   "nota": "documentação em português"
+  },
+  {
+   "titulo": "Think Java, 2ª ed.",
+   "url": "https://greenteapress.com/wp/think-java-2e/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "PlantUML",
+   "url": "https://plantuml.com/",
+   "nota": "diagramas UML em texto"
+  }
+ ],
+ "SIN216": [
+  {
+   "titulo": "Projeto de Algoritmos em C (Paulo Feofiloff, IME-USP)",
+   "url": "https://www.ime.usp.br/~pf/algoritmos/",
+   "nota": "notas de aula em português"
+  },
+  {
+   "titulo": "VisuAlgo",
+   "url": "https://visualgo.net/",
+   "nota": "animações de estruturas de dados e algoritmos"
+  },
+  {
+   "titulo": "Data Structure Visualizations (USF)",
+   "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+   "nota": "animações interativas; em inglês"
+  },
+  {
+   "titulo": "Algorithms (Jeff Erickson)",
+   "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+   "nota": "livro aberto; em inglês"
+  }
+ ],
+ "SIN251": [
+  {
+   "titulo": "Nand2Tetris",
+   "url": "https://www.nand2tetris.org/",
+   "nota": "construa um computador da porta lógica ao sistema operacional; em inglês"
+  },
+  {
+   "titulo": "Logisim-evolution",
+   "url": "https://github.com/logisim-evolution/logisim-evolution",
+   "nota": "simulador de circuitos digitais"
+  },
+  {
+   "titulo": "MIT 6.004 — Computation Structures",
+   "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Computer Systems: A Programmer's Perspective (CS:APP)",
+   "url": "https://csapp.cs.cmu.edu/",
+   "nota": "site do livro com laboratórios; em inglês"
+  }
+ ],
+ "SIN213": [
+  {
+   "titulo": "Análise de Algoritmos (Paulo Feofiloff, IME-USP)",
+   "url": "https://www.ime.usp.br/~pf/analise_de_algoritmos/",
+   "nota": "notas de aula em português"
+  },
+  {
+   "titulo": "Algorithms (Jeff Erickson)",
+   "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "MIT 6.006 — Introduction to Algorithms",
+   "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+   "nota": "aulas e listas no MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "MIT 6.046J — Design and Analysis of Algorithms",
+   "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "VisuAlgo",
+   "url": "https://visualgo.net/",
+   "nota": "animações de algoritmos"
+  }
+ ],
+ "SIN220": [
+  {
+   "titulo": "Documentação do PostgreSQL",
+   "url": "https://www.postgresql.org/docs/current/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "SQLBolt",
+   "url": "https://sqlbolt.com/",
+   "nota": "exercícios interativos de SQL; em inglês"
+  },
+  {
+   "titulo": "CMU 15-445 — Database Systems",
+   "url": "https://15445.courses.cs.cmu.edu/",
+   "nota": "aulas gravadas e projetos; em inglês"
+  },
+  {
+   "titulo": "DB Fiddle",
+   "url": "https://www.db-fiddle.com/",
+   "nota": "testa consultas SQL no navegador"
+  },
+  {
+   "titulo": "brModelo",
+   "url": "https://github.com/chcandido/brModelo",
+   "nota": "ferramenta brasileira de modelagem conceitual e lógica"
+  }
+ ],
+ "SIN221": [
+  {
+   "titulo": "Engenharia de Software Moderna (Marco Tulio Valente)",
+   "url": "https://engsoftmoderna.info/",
+   "nota": "livro aberto em português"
+  },
+  {
+   "titulo": "SWEBOK — Software Engineering Body of Knowledge",
+   "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering",
+   "nota": "IEEE Computer Society; em inglês"
+  },
+  {
+   "titulo": "Guia do Scrum",
+   "url": "https://scrumguides.org/",
+   "nota": "texto oficial, disponível em português"
+  },
+  {
+   "titulo": "The Twelve-Factor App",
+   "url": "https://12factor.net/pt_br/",
+   "nota": "boas práticas para aplicações em nuvem"
+  },
+  {
+   "titulo": "Martin Fowler — artigos",
+   "url": "https://martinfowler.com/",
+   "nota": "arquitetura, refatoração e processos; em inglês"
+  },
+  {
+   "titulo": "PlantUML",
+   "url": "https://plantuml.com/",
+   "nota": "diagramas UML em texto"
+  },
+  {
+   "titulo": "Especificação UML (OMG)",
+   "url": "https://www.omg.org/spec/UML/",
+   "nota": "norma oficial; em inglês"
+  }
+ ],
+ "SIN252": [
+  {
+   "titulo": "RARS — simulador RISC-V",
+   "url": "https://github.com/TheThirdOne/rars",
+   "nota": "montador e simulador em Java"
+  },
+  {
+   "titulo": "Ripes",
+   "url": "https://github.com/mortbopet/Ripes",
+   "nota": "simulador visual de pipeline e caches RISC-V"
+  },
+  {
+   "titulo": "Compiler Explorer",
+   "url": "https://godbolt.org/",
+   "nota": "mostra o assembly gerado por compiladores"
+  },
+  {
+   "titulo": "Computer Systems: A Programmer's Perspective (CS:APP)",
+   "url": "https://csapp.cs.cmu.edu/",
+   "nota": "site do livro com laboratórios; em inglês"
+  }
+ ],
+ "SIN421": [
+  {
+   "titulo": "10 heurísticas de usabilidade (Nielsen Norman Group)",
+   "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Laws of UX",
+   "url": "https://lawsofux.com/",
+   "nota": "princípios de psicologia aplicados a interfaces; em inglês"
+  },
+  {
+   "titulo": "WCAG — diretrizes de acessibilidade (W3C)",
+   "url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Interaction Design Foundation — Literature",
+   "url": "https://ixdf.org/literature",
+   "nota": "enciclopédia aberta de IHC; em inglês"
+  },
+  {
+   "titulo": "Material Design 3",
+   "url": "https://m3.material.io/",
+   "nota": "sistema de design do Google; em inglês"
+  }
+ ],
+ "SIN131": [
+  {
+   "titulo": "MIT 18.404J — Theory of Computation (Michael Sipser)",
+   "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+   "nota": "aulas gravadas; em inglês"
+  },
+  {
+   "titulo": "JFLAP",
+   "url": "https://www.jflap.org/",
+   "nota": "simulador de autômatos, gramáticas e máquinas de Turing"
+  },
+  {
+   "titulo": "Open Logic Project",
+   "url": "https://openlogicproject.org/",
+   "nota": "computabilidade e lógica; em inglês"
+  }
+ ],
+ "SIN143": [
+  {
+   "titulo": "MDN Web Docs",
+   "url": "https://developer.mozilla.org/pt-BR/",
+   "nota": "HTML, CSS, JavaScript e HTTP em português"
+  },
+  {
+   "titulo": "Full Stack Open (Universidade de Helsinque)",
+   "url": "https://fullstackopen.com/ptbr/",
+   "nota": "curso gratuito de desenvolvimento web moderno, em português"
+  },
+  {
+   "titulo": "The Odin Project",
+   "url": "https://www.theodinproject.com/",
+   "nota": "trilha gratuita de desenvolvimento web; em inglês"
+  },
+  {
+   "titulo": "Documentação do Django",
+   "url": "https://docs.djangoproject.com/",
+   "nota": "framework web MVC/MTV em Python"
+  },
+  {
+   "titulo": "Engenharia de Software Moderna (Marco Tulio Valente)",
+   "url": "https://engsoftmoderna.info/",
+   "nota": "livro aberto em português"
+  }
+ ],
+ "SIN320": [
+  {
+   "titulo": "PostgreSQL — Usando EXPLAIN",
+   "url": "https://www.postgresql.org/docs/current/using-explain.html",
+   "nota": "plano de execução de consultas; em inglês"
+  },
+  {
+   "titulo": "Use The Index, Luke!",
+   "url": "https://use-the-index-luke.com/",
+   "nota": "indexação e desempenho de SQL; em inglês"
+  },
+  {
+   "titulo": "PostgreSQL Exercises",
+   "url": "https://pgexercises.com/",
+   "nota": "exercícios de SQL avançado; em inglês"
+  },
+  {
+   "titulo": "CMU 15-445 — Database Systems",
+   "url": "https://15445.courses.cs.cmu.edu/",
+   "nota": "indexação, processamento de consultas e transações; em inglês"
+  }
+ ],
+ "SIN321": [
+  {
+   "titulo": "Engenharia de Software Moderna (Marco Tulio Valente)",
+   "url": "https://engsoftmoderna.info/",
+   "nota": "livro aberto em português"
+  },
+  {
+   "titulo": "SWEBOK — Software Engineering Body of Knowledge",
+   "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering",
+   "nota": "IEEE Computer Society; em inglês"
+  },
+  {
+   "titulo": "Guia do Scrum",
+   "url": "https://scrumguides.org/",
+   "nota": "texto oficial, disponível em português"
+  },
+  {
+   "titulo": "Engenharia de Software Moderna — Cap. 7: Arquitetura",
+   "url": "https://engsoftmoderna.info/cap7.html",
+   "nota": "em português"
+  }
+ ],
+ "SIN351": [
+  {
+   "titulo": "Operating Systems: Three Easy Pieces (OSTEP)",
+   "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "xv6 (MIT)",
+   "url": "https://pdos.csail.mit.edu/6.828/2023/xv6.html",
+   "nota": "sistema operacional didático com código-fonte comentado; em inglês"
+  },
+  {
+   "titulo": "Linux man-pages",
+   "url": "https://www.kernel.org/doc/man-pages/",
+   "nota": "chamadas de sistema e bibliotecas; em inglês"
+  },
+  {
+   "titulo": "The Linux Command Line (William Shotts)",
+   "url": "https://linuxcommand.org/tlcl.php",
+   "nota": "livro aberto; em inglês"
+  }
+ ],
+ "SIN100": [
+  {
+   "titulo": "Python for Data Analysis, 3ª ed. (Wes McKinney)",
+   "url": "https://wesmckinney.com/book/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Portal de Periódicos CAPES",
+   "url": "https://www.periodicos.capes.gov.br/",
+   "nota": "acesso a bases pagas pela rede da UFV"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais e periódicos da Sociedade Brasileira de Computação"
+  },
+  {
+   "titulo": "Google Acadêmico",
+   "url": "https://scholar.google.com/",
+   "nota": "busca de artigos e citações"
+  },
+  {
+   "titulo": "Overleaf",
+   "url": "https://www.overleaf.com/",
+   "nota": "editor LaTeX online e colaborativo"
+  },
+  {
+   "titulo": "Modelo abnTeX2 do CASI para a UFV",
+   "url": "https://github.com/CA-SI/modelo-documentos-abntex-UFV",
+   "nota": "modelo de monografia e artigo"
+  }
+ ],
+ "SIN322": [
+  {
+   "titulo": "Guia PMBOK (PMI)",
+   "url": "https://www.pmi.org/pmbok-guide-standards",
+   "nota": "padrão de gerenciamento de projetos; em inglês"
+  },
+  {
+   "titulo": "Guia do Scrum",
+   "url": "https://scrumguides.org/",
+   "nota": "texto oficial, disponível em português"
+  },
+  {
+   "titulo": "Kanban Guide (Kanban University)",
+   "url": "https://kanban.university/kanban-guide/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "ProjectLibre",
+   "url": "https://www.projectlibre.com/",
+   "nota": "software livre de gestão de projetos"
+  },
+  {
+   "titulo": "Engenharia de Software Moderna — Cap. 2: Processos",
+   "url": "https://engsoftmoderna.info/cap2.html",
+   "nota": "métodos ágeis, em português"
+  }
+ ],
+ "SIN323": [
+  {
+   "titulo": "Artificial Intelligence: A Modern Approach — site do livro",
+   "url": "https://aima.cs.berkeley.edu/",
+   "nota": "código, slides e exercícios (Russell & Norvig); em inglês"
+  },
+  {
+   "titulo": "Berkeley CS188 — Introduction to AI",
+   "url": "https://inst.eecs.berkeley.edu/~cs188/",
+   "nota": "aulas e projetos Pac-Man; em inglês"
+  },
+  {
+   "titulo": "SWI-Prolog",
+   "url": "https://www.swi-prolog.org/",
+   "nota": "interpretador Prolog e documentação"
+  },
+  {
+   "titulo": "Learn Prolog Now!",
+   "url": "https://www.let.rug.nl/bos/lpn/",
+   "nota": "livro aberto de Prolog; em inglês"
+  },
+  {
+   "titulo": "Guia do usuário do scikit-learn",
+   "url": "https://scikit-learn.org/stable/user_guide.html",
+   "nota": "aprendizado de máquina em Python; em inglês"
+  },
+  {
+   "titulo": "Machine Learning Crash Course (Google)",
+   "url": "https://developers.google.com/machine-learning/crash-course",
+   "nota": "curso gratuito; em inglês"
+  }
+ ],
+ "SIN352": [
+  {
+   "titulo": "Computer Networking: a Top-Down Approach — recursos (Kurose & Ross)",
+   "url": "https://gaia.cs.umass.edu/kurose_ross/index.php",
+   "nota": "vídeos, laboratórios Wireshark e exercícios interativos; em inglês"
+  },
+  {
+   "titulo": "Computer Networks: A Systems Approach",
+   "url": "https://book.systemsapproach.org/",
+   "nota": "livro aberto (Peterson & Davie); em inglês"
+  },
+  {
+   "titulo": "Documentação do Wireshark",
+   "url": "https://www.wireshark.org/docs/",
+   "nota": "captura e análise de pacotes"
+  },
+  {
+   "titulo": "Beej's Guide to Network Programming",
+   "url": "https://beej.us/guide/bgnet/",
+   "nota": "programação com sockets; em inglês"
+  },
+  {
+   "titulo": "RFC Editor",
+   "url": "https://www.rfc-editor.org/",
+   "nota": "especificações oficiais dos protocolos da Internet"
+  }
+ ],
+ "SIN480": [
+  {
+   "titulo": "Google OR-Tools",
+   "url": "https://developers.google.com/optimization",
+   "nota": "programação linear, inteira e roteamento; em inglês"
+  },
+  {
+   "titulo": "PuLP",
+   "url": "https://coin-or.github.io/pulp/",
+   "nota": "modelagem de programação linear em Python; em inglês"
+  },
+  {
+   "titulo": "MIT 15.053 — Optimization Methods in Management Science",
+   "url": "https://ocw.mit.edu/courses/15-053-optimization-methods-in-management-science-spring-2013/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "GLPK — GNU Linear Programming Kit",
+   "url": "https://www.gnu.org/software/glpk/",
+   "nota": "solver livre"
+  }
+ ],
+ "ADE190": [
+  {
+   "titulo": "CORE Econ — The Economy",
+   "url": "https://www.core-econ.org/",
+   "nota": "livro aberto de introdução à economia; em inglês"
+  },
+  {
+   "titulo": "OpenStax — Principles of Economics 3e",
+   "url": "https://openstax.org/details/books/principles-economics-3e",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Banco Central do Brasil",
+   "url": "https://www.bcb.gov.br/",
+   "nota": "Selic, inflação, câmbio e séries históricas"
+  },
+  {
+   "titulo": "IBGE",
+   "url": "https://www.ibge.gov.br/",
+   "nota": "PIB, emprego e indicadores econômicos"
+  }
+ ],
+ "SIN142": [
+  {
+   "titulo": "Distributed Systems, 4ª ed. (van Steen & Tanenbaum)",
+   "url": "https://www.distributed-systems.net/index.php/books/ds4/",
+   "nota": "livro gratuito para download pessoal; em inglês"
+  },
+  {
+   "titulo": "MIT 6.5840 — Distributed Systems",
+   "url": "https://pdos.csail.mit.edu/6.824/",
+   "nota": "aulas, artigos e laboratórios em Go; em inglês"
+  },
+  {
+   "titulo": "Raft Consensus Algorithm",
+   "url": "https://raft.github.io/",
+   "nota": "artigo e visualização do algoritmo de consenso"
+  },
+  {
+   "titulo": "gRPC",
+   "url": "https://grpc.io/docs/",
+   "nota": "chamadas de procedimento remoto; em inglês"
+  }
+ ],
+ "SIN392": [
+  {
+   "titulo": "Documentação do OpenCV",
+   "url": "https://docs.opencv.org/4.x/",
+   "nota": "tutoriais de processamento de imagens; em inglês"
+  },
+  {
+   "titulo": "scikit-image",
+   "url": "https://scikit-image.org/docs/stable/",
+   "nota": "processamento de imagens em Python; em inglês"
+  },
+  {
+   "titulo": "ImageProcessingPlace (Gonzalez & Woods)",
+   "url": "https://www.imageprocessingplace.com/",
+   "nota": "site do livro-texto com imagens e materiais; em inglês"
+  },
+  {
+   "titulo": "Fiji / ImageJ",
+   "url": "https://imagej.net/software/fiji/",
+   "nota": "software livre de análise de imagens"
+  }
+ ],
+ "SIN488": [
+  {
+   "titulo": "Modelo abnTeX2 do CASI para a UFV",
+   "url": "https://github.com/CA-SI/modelo-documentos-abntex-UFV",
+   "nota": "modelo de monografia e artigo"
+  },
+  {
+   "titulo": "LOCUS — Repositório Institucional da UFV",
+   "url": "https://locus.ufv.br/",
+   "nota": "monografias, dissertações e teses da UFV"
+  },
+  {
+   "titulo": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
+   "url": "https://bdtd.ibict.br/",
+   "nota": "trabalhos de todo o país"
+  },
+  {
+   "titulo": "Portal de Periódicos CAPES",
+   "url": "https://www.periodicos.capes.gov.br/",
+   "nota": "acesso a bases pagas pela rede da UFV"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais e periódicos da Sociedade Brasileira de Computação"
+  },
+  {
+   "titulo": "Google Acadêmico",
+   "url": "https://scholar.google.com/",
+   "nota": "busca de artigos e citações"
+  },
+  {
+   "titulo": "Zotero",
+   "url": "https://www.zotero.org/",
+   "nota": "gerenciador de referências livre"
+  },
+  {
+   "titulo": "Overleaf",
+   "url": "https://www.overleaf.com/",
+   "nota": "editor LaTeX online e colaborativo"
+  },
+  {
+   "titulo": "abnTeX2",
+   "url": "https://www.abntex.net.br/",
+   "nota": "classes LaTeX para normas ABNT"
+  }
+ ],
+ "SIN495": [
+  {
+   "titulo": "Pró-Reitoria de Extensão e Cultura da UFV",
+   "url": "https://www.pec.ufv.br/",
+   "nota": "editais e registro de projetos de extensão"
+  },
+  {
+   "titulo": "Site do curso de Sistemas de Informação (UFV-CRP)",
+   "url": "https://sin.crp.ufv.br/",
+   "nota": "regulamentos, matriz e informativos"
+  }
+ ],
+ "ADE327": [
+  {
+   "titulo": "OpenStax — Entrepreneurship",
+   "url": "https://openstax.org/details/books/entrepreneurship",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Sebrae",
+   "url": "https://sebrae.com.br/",
+   "nota": "plano de negócios, formalização e cursos gratuitos"
+  },
+  {
+   "titulo": "Business Model Canvas (Strategyzer)",
+   "url": "https://www.strategyzer.com/library/the-business-model-canvas",
+   "nota": "modelo de negócios em uma página; em inglês"
+  },
+  {
+   "titulo": "Startup School (Y Combinator)",
+   "url": "https://www.startupschool.org/",
+   "nota": "curso gratuito sobre startups; em inglês"
+  }
+ ],
+ "CIC100": [
+  {
+   "titulo": "OpenStax — Principles of Accounting, Volume 1",
+   "url": "https://openstax.org/details/books/principles-financial-accounting",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Comitê de Pronunciamentos Contábeis (CPC)",
+   "url": "https://www.cpc.org.br/",
+   "nota": "normas contábeis brasileiras"
+  },
+  {
+   "titulo": "Conselho Federal de Contabilidade",
+   "url": "https://cfc.org.br/",
+   "nota": "legislação e normas da profissão"
+  }
+ ],
+ "SIN489": [
+  {
+   "titulo": "Modelo abnTeX2 do CASI para a UFV",
+   "url": "https://github.com/CA-SI/modelo-documentos-abntex-UFV",
+   "nota": "modelo de monografia e artigo"
+  },
+  {
+   "titulo": "LOCUS — Repositório Institucional da UFV",
+   "url": "https://locus.ufv.br/",
+   "nota": "monografias, dissertações e teses da UFV"
+  },
+  {
+   "titulo": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
+   "url": "https://bdtd.ibict.br/",
+   "nota": "trabalhos de todo o país"
+  },
+  {
+   "titulo": "Portal de Periódicos CAPES",
+   "url": "https://www.periodicos.capes.gov.br/",
+   "nota": "acesso a bases pagas pela rede da UFV"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais e periódicos da Sociedade Brasileira de Computação"
+  },
+  {
+   "titulo": "Google Acadêmico",
+   "url": "https://scholar.google.com/",
+   "nota": "busca de artigos e citações"
+  },
+  {
+   "titulo": "Zotero",
+   "url": "https://www.zotero.org/",
+   "nota": "gerenciador de referências livre"
+  },
+  {
+   "titulo": "Overleaf",
+   "url": "https://www.overleaf.com/",
+   "nota": "editor LaTeX online e colaborativo"
+  },
+  {
+   "titulo": "abnTeX2",
+   "url": "https://www.abntex.net.br/",
+   "nota": "classes LaTeX para normas ABNT"
+  }
+ ],
+ "SIN494": [
+  {
+   "titulo": "Site do curso de Sistemas de Informação (UFV-CRP)",
+   "url": "https://sin.crp.ufv.br/",
+   "nota": "regulamentos, matriz e informativos"
+  },
+  {
+   "titulo": "Pró-Reitoria de Extensão e Cultura da UFV",
+   "url": "https://www.pec.ufv.br/",
+   "nota": "eventos, projetos e cursos que contam como atividade"
+  }
+ ],
+ "SIN497": [
+  {
+   "titulo": "Pró-Reitoria de Extensão e Cultura da UFV",
+   "url": "https://www.pec.ufv.br/",
+   "nota": "editais e registro de projetos de extensão"
+  },
+  {
+   "titulo": "Site do curso de Sistemas de Informação (UFV-CRP)",
+   "url": "https://sin.crp.ufv.br/",
+   "nota": "regulamentos, matriz e informativos"
+  }
+ ],
+ "ADE345": [
+  {
+   "titulo": "OpenStax — Organizational Behavior",
+   "url": "https://openstax.org/details/books/organizational-behavior",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "OpenStax — Principles of Management",
+   "url": "https://openstax.org/details/books/principles-management",
+   "nota": "livro aberto; em inglês"
+  }
+ ],
+ "CDP200": [
+  {
+   "titulo": "Mining of Massive Datasets",
+   "url": "http://www.mmds.org/",
+   "nota": "livro aberto e aulas (Leskovec, Rajaraman, Ullman); em inglês"
+  },
+  {
+   "titulo": "Documentação do Apache Spark",
+   "url": "https://spark.apache.org/docs/latest/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Documentação do Apache Hadoop",
+   "url": "https://hadoop.apache.org/docs/stable/",
+   "nota": "em inglês"
+  }
+ ],
+ "CDP300": [
+  {
+   "titulo": "Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português",
+   "url": "https://brasileiraspln.com/livro-pln/",
+   "nota": "livro aberto (Brasileiras em PLN)"
+  },
+  {
+   "titulo": "Speech and Language Processing, 3ª ed. (Jurafsky & Martin)",
+   "url": "https://web.stanford.edu/~jurafsky/slp3/",
+   "nota": "rascunho aberto; em inglês"
+  },
+  {
+   "titulo": "Natural Language Processing with Python (livro do NLTK)",
+   "url": "https://www.nltk.org/book/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "spaCy",
+   "url": "https://spacy.io/usage",
+   "nota": "biblioteca de PLN com modelos para português; em inglês"
+  },
+  {
+   "titulo": "Hugging Face Learn",
+   "url": "https://huggingface.co/learn",
+   "nota": "cursos de transformers e LLMs; em inglês"
+  }
+ ],
+ "CDP326": [
+  {
+   "titulo": "Dive into Deep Learning",
+   "url": "https://d2l.ai/",
+   "nota": "livro aberto com código executável; em inglês"
+  },
+  {
+   "titulo": "Practical Deep Learning for Coders (fast.ai)",
+   "url": "https://course.fast.ai/",
+   "nota": "curso gratuito; em inglês"
+  },
+  {
+   "titulo": "Hugging Face Learn",
+   "url": "https://huggingface.co/learn",
+   "nota": "cursos de LLMs, transformers e agentes; em inglês"
+  },
+  {
+   "titulo": "Stanford CS224N — NLP with Deep Learning",
+   "url": "https://web.stanford.edu/class/cs224n/",
+   "nota": "em inglês"
+  }
+ ],
+ "CDP408": [
+  {
+   "titulo": "Network Science (Albert-László Barabási)",
+   "url": "https://networksciencebook.com/",
+   "nota": "livro aberto e interativo; em inglês"
+  },
+  {
+   "titulo": "NetworkX",
+   "url": "https://networkx.org/documentation/stable/",
+   "nota": "análise de redes em Python; em inglês"
+  },
+  {
+   "titulo": "Gephi",
+   "url": "https://gephi.org/",
+   "nota": "visualização e análise de redes"
+  }
+ ],
+ "CRP280": [
+  {
+   "titulo": "Dicionário de Libras (INES)",
+   "url": "https://dicionario.ines.gov.br/",
+   "nota": "dicionário com vídeos"
+  },
+  {
+   "titulo": "VLibras",
+   "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras",
+   "nota": "tradutor automático português–Libras"
+  },
+  {
+   "titulo": "Spread the Sign",
+   "url": "https://www.spreadthesign.com/",
+   "nota": "dicionário internacional de línguas de sinais"
+  }
+ ],
+ "CRP291": [
+  {
+   "titulo": "BBC Learning English",
+   "url": "https://www.bbc.co.uk/learningenglish",
+   "nota": "aulas gratuitas"
+  },
+  {
+   "titulo": "Cambridge Dictionary",
+   "url": "https://dictionary.cambridge.org/",
+   "nota": "dicionário com pronúncia e tradução para português"
+  },
+  {
+   "titulo": "Academic Phrasebank (Universidade de Manchester)",
+   "url": "https://www.phrasebank.manchester.ac.uk/",
+   "nota": "frases para escrita acadêmica"
+  },
+  {
+   "titulo": "Purdue OWL",
+   "url": "https://owl.purdue.edu/",
+   "nota": "guias de escrita em inglês"
+  }
+ ],
+ "FRP310": [
+  {
+   "titulo": "Documentação do Arduino",
+   "url": "https://docs.arduino.cc/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Tinkercad Circuits",
+   "url": "https://www.tinkercad.com/circuits",
+   "nota": "simulador de circuitos e Arduino no navegador"
+  },
+  {
+   "titulo": "Falstad Circuit Simulator",
+   "url": "https://www.falstad.com/circuit/",
+   "nota": "simulador de circuitos elétricos"
+  },
+  {
+   "titulo": "All About Circuits — Textbook",
+   "url": "https://www.allaboutcircuits.com/textbook/",
+   "nota": "livro aberto de eletricidade e eletrônica; em inglês"
+  }
+ ],
+ "MAP100": [
+  {
+   "titulo": "Khan Academy — Matemática",
+   "url": "https://pt.khanacademy.org/math",
+   "nota": "vídeos e exercícios em português"
+  },
+  {
+   "titulo": "OpenStax — College Algebra 2e",
+   "url": "https://openstax.org/details/books/college-algebra-2e",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "OpenStax — Precalculus 2e",
+   "url": "https://openstax.org/details/books/precalculus-2e",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "GeoGebra",
+   "url": "https://www.geogebra.org/",
+   "nota": "gráficos de funções e geometria interativa"
+  }
+ ],
+ "MAP298": [
+  {
+   "titulo": "MIT 18.06 — Linear Algebra (Gilbert Strang)",
+   "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Essence of Linear Algebra (3Blue1Brown)",
+   "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "nota": "série de vídeos com intuição geométrica; legendas em português"
+  },
+  {
+   "titulo": "Linear Algebra (Jim Hefferon)",
+   "url": "https://hefferon.net/linearalgebra/",
+   "nota": "livro aberto com exercícios resolvidos; em inglês"
+  },
+  {
+   "titulo": "Khan Academy — Álgebra Linear",
+   "url": "https://pt.khanacademy.org/math/linear-algebra",
+   "nota": "vídeos em português"
+  },
+  {
+   "titulo": "GeoGebra 3D",
+   "url": "https://www.geogebra.org/3d",
+   "nota": "visualização de vetores, retas e planos"
+  }
+ ],
+ "SIN214": [
+  {
+   "titulo": "The Debian Administrator's Handbook",
+   "url": "https://debian-handbook.info/",
+   "nota": "livro aberto sobre administração de servidores"
+  },
+  {
+   "titulo": "Ubuntu Server documentation",
+   "url": "https://ubuntu.com/server/docs/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Documentação do Zabbix",
+   "url": "https://www.zabbix.com/documentation/current/",
+   "nota": "monitoramento de redes e serviços"
+  },
+  {
+   "titulo": "Prometheus",
+   "url": "https://prometheus.io/docs/",
+   "nota": "monitoramento e alertas; em inglês"
+  },
+  {
+   "titulo": "Cisco Packet Tracer",
+   "url": "https://www.netacad.com/cisco-packet-tracer",
+   "nota": "simulador de redes (cadastro gratuito na NetAcad)"
+  }
+ ],
+ "SIN219": [
+  {
+   "titulo": "ENADE (INEP)",
+   "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade",
+   "nota": "diretrizes e calendário"
+  },
+  {
+   "titulo": "ENADE — provas e gabaritos anteriores",
+   "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade/provas-e-gabaritos",
+   "nota": "provas de Sistemas de Informação"
+  },
+  {
+   "titulo": "POSCOMP (SBC)",
+   "url": "https://www.sbc.org.br/poscomp",
+   "nota": "exame nacional para ingresso na pós-graduação em Computação"
+  }
+ ],
+ "SIN223": [
+  {
+   "titulo": "PlantUML",
+   "url": "https://plantuml.com/",
+   "nota": "diagramas UML em texto"
+  },
+  {
+   "titulo": "Especificação UML (OMG)",
+   "url": "https://www.omg.org/spec/UML/",
+   "nota": "norma oficial; em inglês"
+  },
+  {
+   "titulo": "Refactoring.Guru — Padrões de Projeto",
+   "url": "https://refactoring.guru/pt-br/design-patterns",
+   "nota": "padrões GoF explicados em português"
+  },
+  {
+   "titulo": "Engenharia de Software Moderna (Marco Tulio Valente)",
+   "url": "https://engsoftmoderna.info/",
+   "nota": "livro aberto em português"
+  }
+ ],
+ "SIN341": [
+  {
+   "titulo": "O que é software livre? (GNU)",
+   "url": "https://www.gnu.org/philosophy/free-sw.pt-br.html",
+   "nota": "definição das quatro liberdades"
+  },
+  {
+   "titulo": "Open Source Initiative — licenças",
+   "url": "https://opensource.org/licenses",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Choose a License",
+   "url": "https://choosealicense.com/",
+   "nota": "guia para escolher licença de projeto; em inglês"
+  },
+  {
+   "titulo": "Pro Git",
+   "url": "https://git-scm.com/book/pt-br/v2",
+   "nota": "livro aberto em português"
+  },
+  {
+   "titulo": "The Debian Administrator's Handbook",
+   "url": "https://debian-handbook.info/",
+   "nota": "livro aberto sobre administração de servidores"
+  },
+  {
+   "titulo": "The Linux Command Line (William Shotts)",
+   "url": "https://linuxcommand.org/tlcl.php",
+   "nota": "livro aberto; em inglês"
+  }
+ ],
+ "SIN343": [
+  {
+   "titulo": "CSES Problem Set",
+   "url": "https://cses.fi/problemset/",
+   "nota": "lista clássica de problemas por tema; em inglês"
+  },
+  {
+   "titulo": "Competitive Programmer's Handbook (Antti Laaksonen)",
+   "url": "https://cses.fi/book/book.pdf",
+   "nota": "livro gratuito (PDF); em inglês"
+  },
+  {
+   "titulo": "CP-Algorithms",
+   "url": "https://cp-algorithms.com/",
+   "nota": "algoritmos explicados com implementação; em inglês"
+  },
+  {
+   "titulo": "Codeforces",
+   "url": "https://codeforces.com/",
+   "nota": "competições semanais; em inglês"
+  },
+  {
+   "titulo": "Beecrowd",
+   "url": "https://judge.beecrowd.com/",
+   "nota": "juiz online com problemas em português"
+  },
+  {
+   "titulo": "Maratona de Programação SBC",
+   "url": "https://maratona.sbc.org.br/",
+   "nota": "competição nacional; provas anteriores"
+  }
+ ],
+ "SIN390": [
+  {
+   "titulo": "LearnOpenGL",
+   "url": "https://learnopengl.com/",
+   "nota": "tutorial de OpenGL moderno; em inglês"
+  },
+  {
+   "titulo": "Scratchapixel",
+   "url": "https://www.scratchapixel.com/",
+   "nota": "fundamentos de renderização; em inglês"
+  },
+  {
+   "titulo": "Ray Tracing in One Weekend",
+   "url": "https://raytracing.github.io/",
+   "nota": "série de livros abertos; em inglês"
+  },
+  {
+   "titulo": "The Book of Shaders",
+   "url": "https://thebookofshaders.com/",
+   "nota": "shaders de fragmento passo a passo"
+  },
+  {
+   "titulo": "Documentação do three.js",
+   "url": "https://threejs.org/docs/",
+   "nota": "gráficos 3D no navegador; em inglês"
+  }
+ ],
+ "SIN393": [
+  {
+   "titulo": "Computer Vision: Algorithms and Applications, 2ª ed. (Szeliski)",
+   "url": "https://szeliski.org/Book/",
+   "nota": "livro gratuito em PDF; em inglês"
+  },
+  {
+   "titulo": "Stanford CS231n — notas de aula",
+   "url": "https://cs231n.github.io/",
+   "nota": "redes convolucionais para visão; em inglês"
+  },
+  {
+   "titulo": "Documentação do OpenCV",
+   "url": "https://docs.opencv.org/4.x/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Tutoriais do PyTorch",
+   "url": "https://docs.pytorch.org/tutorials/",
+   "nota": "em inglês"
+  }
+ ],
+ "SIN394": [
+  {
+   "titulo": "Documentação do Godot",
+   "url": "https://docs.godotengine.org/pt-br/stable/",
+   "nota": "motor de jogos livre, em português"
+  },
+  {
+   "titulo": "Game Programming Patterns (Robert Nystrom)",
+   "url": "https://gameprogrammingpatterns.com/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Red Blob Games",
+   "url": "https://www.redblobgames.com/",
+   "nota": "explicações interativas de algoritmos para jogos; em inglês"
+  },
+  {
+   "titulo": "Unity Learn",
+   "url": "https://learn.unity.com/",
+   "nota": "cursos gratuitos de Unity; em inglês"
+  },
+  {
+   "titulo": "itch.io — Game Jams",
+   "url": "https://itch.io/jams",
+   "nota": "maratonas de criação de jogos"
+  }
+ ],
+ "SIN395": [
+  {
+   "titulo": "Virtual Reality (Steven LaValle)",
+   "url": "https://lavalle.pl/vr/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "A-Frame",
+   "url": "https://aframe.io/docs/",
+   "nota": "realidade virtual na web; em inglês"
+  },
+  {
+   "titulo": "Immersive Web (WebXR)",
+   "url": "https://immersiveweb.dev/",
+   "nota": "padrão WebXR e exemplos; em inglês"
+  },
+  {
+   "titulo": "OpenXR (Khronos)",
+   "url": "https://www.khronos.org/openxr/",
+   "nota": "padrão aberto para RV e RA; em inglês"
+  }
+ ],
+ "SIN420": [
+  {
+   "titulo": "Tutorial: Introdução a Bancos de Dados Geográficos (INPE)",
+   "url": "http://www.dpi.inpe.br/DPI/livros/pdfs/tutorialbdgeo_geobrasil2006.pdf",
+   "nota": "PDF em português"
+  },
+  {
+   "titulo": "Introdução à Ciência da Geoinformação (INPE)",
+   "url": "http://www.dpi.inpe.br/gilberto/livro/introd/",
+   "nota": "livro aberto em português"
+  },
+  {
+   "titulo": "Documentação do PostGIS",
+   "url": "https://postgis.net/documentation/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Documentação do QGIS",
+   "url": "https://docs.qgis.org/latest/pt_BR/docs/",
+   "nota": "SIG livre, em português"
+  },
+  {
+   "titulo": "IBGE — downloads de geociências",
+   "url": "https://www.ibge.gov.br/geociencias/downloads-geociencias.html",
+   "nota": "malhas territoriais e bases cartográficas"
+  },
+  {
+   "titulo": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/",
+   "nota": "dados geográficos abertos"
+  }
+ ],
+ "SIN422": [
+  {
+   "titulo": "ISO/IEC 25010 — modelo de qualidade de produto",
+   "url": "https://iso25000.com/index.php/en/iso-25000-standards/iso-25010",
+   "nota": "resumo das características; em inglês"
+  },
+  {
+   "titulo": "MPS.BR (Softex)",
+   "url": "https://mpsbr.softex.br/",
+   "nota": "modelo brasileiro de melhoria de processo"
+  },
+  {
+   "titulo": "CMMI Institute",
+   "url": "https://cmmiinstitute.com/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Documentação do SonarQube",
+   "url": "https://docs.sonarsource.com/sonarqube-server",
+   "nota": "análise estática de qualidade de código; em inglês"
+  },
+  {
+   "titulo": "Engenharia de Software Moderna (Marco Tulio Valente)",
+   "url": "https://engsoftmoderna.info/",
+   "nota": "livro aberto em português"
+  }
+ ],
+ "SIN423": [
+  {
+   "titulo": "Engenharia de Software Moderna — Cap. 8: Testes",
+   "url": "https://engsoftmoderna.info/cap8.html",
+   "nota": "em português"
+  },
+  {
+   "titulo": "ISTQB",
+   "url": "https://www.istqb.org/",
+   "nota": "syllabus de certificação em teste; em inglês"
+  },
+  {
+   "titulo": "BSTQB",
+   "url": "https://bstqb.online/",
+   "nota": "syllabus ISTQB em português"
+  },
+  {
+   "titulo": "Documentação do pytest",
+   "url": "https://docs.pytest.org/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Documentação do JUnit",
+   "url": "https://docs.junit.org/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Selenium",
+   "url": "https://www.selenium.dev/documentation/",
+   "nota": "testes automatizados de interface web; em inglês"
+  }
+ ],
+ "SIN430": [
+  {
+   "titulo": "Algoritmos para Grafos em C (Paulo Feofiloff, IME-USP)",
+   "url": "https://www.ime.usp.br/~pf/algoritmos_para_grafos/",
+   "nota": "notas de aula em português"
+  },
+  {
+   "titulo": "NetworkX",
+   "url": "https://networkx.org/documentation/stable/",
+   "nota": "biblioteca Python para grafos; em inglês"
+  },
+  {
+   "titulo": "CP-Algorithms — Graphs",
+   "url": "https://cp-algorithms.com/",
+   "nota": "algoritmos de grafos com implementação; em inglês"
+  },
+  {
+   "titulo": "VisuAlgo — grafos",
+   "url": "https://visualgo.net/en/dfsbfs",
+   "nota": "animações de BFS e DFS"
+  }
+ ],
+ "SIN440": [
+  {
+   "titulo": "The Art of Computer Systems Performance Analysis (Raj Jain)",
+   "url": "https://www.cse.wustl.edu/~jain/books/perfbook.htm",
+   "nota": "site do livro com slides; em inglês"
+  },
+  {
+   "titulo": "Brendan Gregg — Systems Performance",
+   "url": "https://www.brendangregg.com/",
+   "nota": "métodos e ferramentas de análise de desempenho; em inglês"
+  },
+  {
+   "titulo": "SimPy",
+   "url": "https://simpy.readthedocs.io/",
+   "nota": "simulação de eventos discretos em Python; em inglês"
+  },
+  {
+   "titulo": "Apache JMeter",
+   "url": "https://jmeter.apache.org/",
+   "nota": "testes de carga"
+  },
+  {
+   "titulo": "Locust",
+   "url": "https://locust.io/",
+   "nota": "testes de carga em Python"
+  }
+ ],
+ "SIN441": [
+  {
+   "titulo": "Distributed Systems, 4ª ed. (van Steen & Tanenbaum)",
+   "url": "https://www.distributed-systems.net/index.php/books/ds4/",
+   "nota": "livro gratuito para download pessoal; em inglês"
+  },
+  {
+   "titulo": "MIT 6.5840 — Distributed Systems",
+   "url": "https://pdos.csail.mit.edu/6.824/",
+   "nota": "aulas, artigos e laboratórios em Go; em inglês"
+  },
+  {
+   "titulo": "Documentação do Kubernetes",
+   "url": "https://kubernetes.io/pt-br/docs/home/",
+   "nota": "orquestração de contêineres, em português"
+  },
+  {
+   "titulo": "Documentação do Docker",
+   "url": "https://docs.docker.com/",
+   "nota": "em inglês"
+  }
+ ],
+ "SIN450": [
+  {
+   "titulo": "Geographic Data Science with Python",
+   "url": "https://geographicdata.science/book/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Geocomputation with Python",
+   "url": "https://py.geocompx.org/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "GeoPandas",
+   "url": "https://geopandas.org/",
+   "nota": "dados vetoriais em Python; em inglês"
+  },
+  {
+   "titulo": "Python for Data Analysis, 3ª ed. (Wes McKinney)",
+   "url": "https://wesmckinney.com/book/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Análise Espacial de Dados Geográficos (INPE)",
+   "url": "http://www.dpi.inpe.br/gilberto/livro/analise/",
+   "nota": "livro aberto em português"
+  }
+ ],
+ "SIN451": [
+  {
+   "titulo": "Cartilha de Segurança para Internet (CERT.br)",
+   "url": "https://cartilha.cert.br/",
+   "nota": "em português"
+  },
+  {
+   "titulo": "OWASP Top 10",
+   "url": "https://owasp.org/projects/top-ten",
+   "nota": "riscos mais críticos em aplicações web; em inglês"
+  },
+  {
+   "titulo": "PortSwigger Web Security Academy",
+   "url": "https://portswigger.net/web-security",
+   "nota": "laboratórios gratuitos de segurança web; em inglês"
+  },
+  {
+   "titulo": "NIST Cybersecurity Framework",
+   "url": "https://www.nist.gov/cyberframework",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Security Engineering (Ross Anderson)",
+   "url": "https://www.cl.cam.ac.uk/archive/rja14/book.html",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "OverTheWire Wargames",
+   "url": "https://overthewire.org/wargames/",
+   "nota": "desafios práticos de segurança; em inglês"
+  }
+ ],
+ "SIN452": [
+  {
+   "titulo": "RFC 2475 — Arquitetura de Serviços Diferenciados (DiffServ)",
+   "url": "https://www.rfc-editor.org/info/rfc2475/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "iPerf",
+   "url": "https://iperf.fr/",
+   "nota": "medição de vazão em redes"
+  },
+  {
+   "titulo": "RNP — Rede Nacional de Ensino e Pesquisa",
+   "url": "https://www.rnp.br/",
+   "nota": "rede acadêmica de alto desempenho do Brasil"
+  },
+  {
+   "titulo": "Computer Networking: a Top-Down Approach — recursos (Kurose & Ross)",
+   "url": "https://gaia.cs.umass.edu/kurose_ross/index.php",
+   "nota": "vídeos, laboratórios Wireshark e exercícios interativos; em inglês"
+  },
+  {
+   "titulo": "Computer Networks: A Systems Approach",
+   "url": "https://book.systemsapproach.org/",
+   "nota": "livro aberto (Peterson & Davie); em inglês"
+  }
+ ],
+ "SIN453": [
+  {
+   "titulo": "Cisco Packet Tracer",
+   "url": "https://www.netacad.com/cisco-packet-tracer",
+   "nota": "simulador de redes (cadastro gratuito na NetAcad)"
+  },
+  {
+   "titulo": "GNS3",
+   "url": "https://www.gns3.com/",
+   "nota": "emulador de redes"
+  },
+  {
+   "titulo": "Mininet",
+   "url": "https://mininet.org/",
+   "nota": "emulação de redes e SDN"
+  },
+  {
+   "titulo": "Documentação do Wireshark",
+   "url": "https://www.wireshark.org/docs/",
+   "nota": "captura e análise de pacotes"
+  }
+ ],
+ "SIN460": [
+  {
+   "titulo": "An Introduction to Statistical Learning",
+   "url": "https://www.statlearning.com/",
+   "nota": "livro aberto com versões em R e Python; em inglês"
+  },
+  {
+   "titulo": "Pattern Recognition and Machine Learning (Bishop)",
+   "url": "https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/",
+   "nota": "livro disponível gratuitamente em PDF; em inglês"
+  },
+  {
+   "titulo": "Guia do usuário do scikit-learn",
+   "url": "https://scikit-learn.org/stable/user_guide.html",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "Kaggle Learn",
+   "url": "https://www.kaggle.com/learn",
+   "nota": "microcursos práticos e bases de dados; em inglês"
+  }
+ ],
+ "SIN481": [
+  {
+   "titulo": "Google OR-Tools",
+   "url": "https://developers.google.com/optimization",
+   "nota": "programação linear, inteira e roteamento; em inglês"
+  },
+  {
+   "titulo": "PuLP",
+   "url": "https://coin-or.github.io/pulp/",
+   "nota": "modelagem de programação linear em Python; em inglês"
+  },
+  {
+   "titulo": "Pyomo",
+   "url": "https://www.pyomo.org/",
+   "nota": "modelagem de otimização em Python; em inglês"
+  },
+  {
+   "titulo": "Gurobi Academic Program",
+   "url": "https://www.gurobi.com/academics",
+   "nota": "licença acadêmica gratuita de solver comercial; em inglês"
+  }
+ ],
+ "SIN490": [
+  {
+   "titulo": "Modelo abnTeX2 do CASI para a UFV",
+   "url": "https://github.com/CA-SI/modelo-documentos-abntex-UFV",
+   "nota": "modelo de monografia e artigo"
+  },
+  {
+   "titulo": "LOCUS — Repositório Institucional da UFV",
+   "url": "https://locus.ufv.br/",
+   "nota": "monografias, dissertações e teses da UFV"
+  },
+  {
+   "titulo": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
+   "url": "https://bdtd.ibict.br/",
+   "nota": "trabalhos de todo o país"
+  },
+  {
+   "titulo": "Portal de Periódicos CAPES",
+   "url": "https://www.periodicos.capes.gov.br/",
+   "nota": "acesso a bases pagas pela rede da UFV"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais e periódicos da Sociedade Brasileira de Computação"
+  },
+  {
+   "titulo": "Google Acadêmico",
+   "url": "https://scholar.google.com/",
+   "nota": "busca de artigos e citações"
+  },
+  {
+   "titulo": "Zotero",
+   "url": "https://www.zotero.org/",
+   "nota": "gerenciador de referências livre"
+  },
+  {
+   "titulo": "Overleaf",
+   "url": "https://www.overleaf.com/",
+   "nota": "editor LaTeX online e colaborativo"
+  },
+  {
+   "titulo": "abnTeX2",
+   "url": "https://www.abntex.net.br/",
+   "nota": "classes LaTeX para normas ABNT"
+  }
+ ],
+ "SIN491": [
+  {
+   "titulo": "arXiv — Computer Science",
+   "url": "https://arxiv.org/archive/cs",
+   "nota": "preprints recentes por área; em inglês"
+  },
+  {
+   "titulo": "ACM Digital Library",
+   "url": "https://dl.acm.org/",
+   "nota": "artigos da ACM (acesso pela rede da UFV)"
+  },
+  {
+   "titulo": "IEEE Xplore",
+   "url": "https://ieeexplore.ieee.org/",
+   "nota": "artigos do IEEE (acesso pela rede da UFV)"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais de eventos brasileiros de Computação"
+  }
+ ],
+ "SIN492": [
+  {
+   "titulo": "arXiv — Computer Science",
+   "url": "https://arxiv.org/archive/cs",
+   "nota": "preprints recentes por área; em inglês"
+  },
+  {
+   "titulo": "ACM Digital Library",
+   "url": "https://dl.acm.org/",
+   "nota": "artigos da ACM (acesso pela rede da UFV)"
+  },
+  {
+   "titulo": "IEEE Xplore",
+   "url": "https://ieeexplore.ieee.org/",
+   "nota": "artigos do IEEE (acesso pela rede da UFV)"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais de eventos brasileiros de Computação"
+  }
+ ],
+ "SIN493": [
+  {
+   "titulo": "arXiv — Computer Science",
+   "url": "https://arxiv.org/archive/cs",
+   "nota": "preprints recentes por área; em inglês"
+  },
+  {
+   "titulo": "ACM Digital Library",
+   "url": "https://dl.acm.org/",
+   "nota": "artigos da ACM (acesso pela rede da UFV)"
+  },
+  {
+   "titulo": "IEEE Xplore",
+   "url": "https://ieeexplore.ieee.org/",
+   "nota": "artigos do IEEE (acesso pela rede da UFV)"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais de eventos brasileiros de Computação"
+  }
+ ],
+ "ADE101": [
+  {
+   "titulo": "OpenStax — Principles of Management",
+   "url": "https://openstax.org/details/books/principles-management",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "OpenStax — Organizational Behavior",
+   "url": "https://openstax.org/details/books/organizational-behavior",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Sebrae",
+   "url": "https://sebrae.com.br/",
+   "nota": "guias de gestão para pequenas empresas"
+  }
+ ],
+ "ADE192": [
+  {
+   "titulo": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/",
+   "nota": "verbetes de filosofia política; em inglês"
+  },
+  {
+   "titulo": "Constituição Federal de 1988",
+   "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+   "nota": "texto oficial"
+  },
+  {
+   "titulo": "Domínio Público",
+   "url": "http://www.dominiopublico.gov.br/",
+   "nota": "obras clássicas em domínio público"
+  }
+ ],
+ "ADE302": [
+  {
+   "titulo": "BPMN (OMG)",
+   "url": "https://www.omg.org/spec/BPMN/",
+   "nota": "especificação da notação de processos; em inglês"
+  },
+  {
+   "titulo": "bpmn.io",
+   "url": "https://bpmn.io/",
+   "nota": "modelador BPMN no navegador"
+  },
+  {
+   "titulo": "Bizagi Modeler",
+   "url": "https://www.bizagi.com/pt/plataforma/modeler",
+   "nota": "modelagem de processos gratuita"
+  }
+ ],
+ "CRP192": [
+  {
+   "titulo": "OpenIntro Statistics",
+   "url": "https://www.openintro.org/book/os/",
+   "nota": "livro aberto com dados e exercícios; em inglês"
+  },
+  {
+   "titulo": "Seeing Theory (Brown University)",
+   "url": "https://seeing-theory.brown.edu/",
+   "nota": "probabilidade e estatística com visualizações interativas"
+  },
+  {
+   "titulo": "Khan Academy — Estatística e Probabilidade",
+   "url": "https://pt.khanacademy.org/math/statistics-probability",
+   "nota": "vídeos e exercícios em português"
+  },
+  {
+   "titulo": "R for Data Science, 2ª ed.",
+   "url": "https://r4ds.hadley.nz/",
+   "nota": "análise de dados com R; em inglês"
+  }
+ ],
+ "CRP199": [
+  {
+   "titulo": "OpenStax — Calculus Volume 1",
+   "url": "https://openstax.org/details/books/calculus-volume-1",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "MIT 18.01SC — Single Variable Calculus",
+   "url": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Khan Academy — Cálculo",
+   "url": "https://pt.khanacademy.org/math/calculus-1",
+   "nota": "vídeos e exercícios em português"
+  },
+  {
+   "titulo": "GeoGebra",
+   "url": "https://www.geogebra.org/",
+   "nota": "gráficos e visualização de limites, derivadas e integrais"
+  }
+ ],
+ "CRP290": [
+  {
+   "titulo": "VOLP — Vocabulário Ortográfico da Língua Portuguesa (ABL)",
+   "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario",
+   "nota": "ortografia oficial"
+  },
+  {
+   "titulo": "Manual de Redação da Presidência da República",
+   "url": "https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica",
+   "nota": "redação oficial"
+  },
+  {
+   "titulo": "Ciberdúvidas da Língua Portuguesa",
+   "url": "https://ciberduvidas.iscte-iul.pt/",
+   "nota": "dúvidas de gramática e uso"
+  }
+ ],
+ "CRP298": [
+  {
+   "titulo": "MIT 18.06 — Linear Algebra (Gilbert Strang)",
+   "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Essence of Linear Algebra (3Blue1Brown)",
+   "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "nota": "série de vídeos com intuição geométrica; legendas em português"
+  },
+  {
+   "titulo": "Linear Algebra (Jim Hefferon)",
+   "url": "https://hefferon.net/linearalgebra/",
+   "nota": "livro aberto com exercícios resolvidos; em inglês"
+  },
+  {
+   "titulo": "Khan Academy — Álgebra Linear",
+   "url": "https://pt.khanacademy.org/math/linear-algebra",
+   "nota": "vídeos em português"
+  },
+  {
+   "titulo": "GeoGebra 3D",
+   "url": "https://www.geogebra.org/3d",
+   "nota": "visualização de vetores, retas e planos"
+  }
+ ],
+ "MAP199": [
+  {
+   "titulo": "OpenStax — Calculus Volume 1",
+   "url": "https://openstax.org/details/books/calculus-volume-1",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "MIT 18.01SC — Single Variable Calculus",
+   "url": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/",
+   "nota": "MIT OpenCourseWare; em inglês"
+  },
+  {
+   "titulo": "Khan Academy — Cálculo",
+   "url": "https://pt.khanacademy.org/math/calculus-1",
+   "nota": "vídeos e exercícios em português"
+  },
+  {
+   "titulo": "GeoGebra",
+   "url": "https://www.geogebra.org/",
+   "nota": "gráficos e visualização de limites, derivadas e integrais"
+  }
+ ],
+ "NUR493": [
+  {
+   "titulo": "Lei Orgânica da Saúde (Lei 8.080/1990)",
+   "url": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm",
+   "nota": "texto oficial"
+  },
+  {
+   "titulo": "Ministério da Saúde",
+   "url": "https://www.gov.br/saude/pt-br",
+   "nota": "políticas e programas do SUS"
+  },
+  {
+   "titulo": "Fiocruz",
+   "url": "https://fiocruz.br/",
+   "nota": "pesquisa e publicações em saúde pública"
+  },
+  {
+   "titulo": "SciELO Saúde Pública",
+   "url": "https://www.scielosp.org/",
+   "nota": "artigos de acesso aberto"
+  }
+ ],
+ "SIN110": [
+  {
+   "titulo": "CS50x — Introduction to Computer Science (Harvard)",
+   "url": "https://cs50.harvard.edu/x/",
+   "nota": "curso gratuito com vídeos e exercícios; em inglês"
+  },
+  {
+   "titulo": "Tutorial oficial de Python",
+   "url": "https://docs.python.org/pt-br/3/tutorial/",
+   "nota": "documentação em português"
+  },
+  {
+   "titulo": "Python Tutor",
+   "url": "https://pythontutor.com/",
+   "nota": "visualiza a execução de programas passo a passo"
+  },
+  {
+   "titulo": "Think Python, 3ª ed. (Allen Downey)",
+   "url": "https://allendowney.github.io/ThinkPython/",
+   "nota": "livro aberto; em inglês"
+  },
+  {
+   "titulo": "Beecrowd",
+   "url": "https://judge.beecrowd.com/",
+   "nota": "juiz online com problemas em português"
+  }
+ ],
+ "SIN211": [
+  {
+   "titulo": "Projeto de Algoritmos em C (Paulo Feofiloff, IME-USP)",
+   "url": "https://www.ime.usp.br/~pf/algoritmos/",
+   "nota": "notas de aula em português"
+  },
+  {
+   "titulo": "VisuAlgo",
+   "url": "https://visualgo.net/",
+   "nota": "animações de estruturas de dados e algoritmos"
+  },
+  {
+   "titulo": "Data Structure Visualizations (USF)",
+   "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
+   "nota": "animações interativas; em inglês"
+  },
+  {
+   "titulo": "Beej's Guide to C Programming",
+   "url": "https://beej.us/guide/bgc/",
+   "nota": "guia gratuito de C; em inglês"
+  },
+  {
+   "titulo": "cppreference — C",
+   "url": "https://en.cppreference.com/c",
+   "nota": "referência da linguagem e da biblioteca padrão; em inglês"
+  },
+  {
+   "titulo": "Análise de Algoritmos (Paulo Feofiloff, IME-USP)",
+   "url": "https://www.ime.usp.br/~pf/analise_de_algoritmos/",
+   "nota": "notas de aula em português"
+  }
+ ],
+ "SIN342": [
+  {
+   "titulo": "MDN Web Docs",
+   "url": "https://developer.mozilla.org/pt-BR/",
+   "nota": "HTML, CSS, JavaScript e HTTP em português"
+  },
+  {
+   "titulo": "Full Stack Open (Universidade de Helsinque)",
+   "url": "https://fullstackopen.com/ptbr/",
+   "nota": "curso gratuito de desenvolvimento web moderno, em português"
+  },
+  {
+   "titulo": "The Odin Project",
+   "url": "https://www.theodinproject.com/",
+   "nota": "trilha gratuita de desenvolvimento web; em inglês"
+  },
+  {
+   "titulo": "Documentação do Django",
+   "url": "https://docs.djangoproject.com/",
+   "nota": "framework web MVC/MTV em Python"
+  },
+  {
+   "titulo": "O que é software livre? (GNU)",
+   "url": "https://www.gnu.org/philosophy/free-sw.pt-br.html",
+   "nota": "definição das quatro liberdades"
+  }
+ ],
+ "SIN391": [
+  {
+   "titulo": "HTML Living Standard (WHATWG)",
+   "url": "https://html.spec.whatwg.org/",
+   "nota": "em inglês"
+  },
+  {
+   "titulo": "MDN Web Docs",
+   "url": "https://developer.mozilla.org/pt-BR/",
+   "nota": "HTML, CSS, JavaScript e HTTP em português"
+  },
+  {
+   "titulo": "10 heurísticas de usabilidade (Nielsen Norman Group)",
+   "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+   "nota": "em inglês"
+  }
+ ],
+ "SIN496": [
+  {
+   "titulo": "Site do curso de Sistemas de Informação (UFV-CRP)",
+   "url": "https://sin.crp.ufv.br/",
+   "nota": "regulamentos, matriz e informativos"
+  },
+  {
+   "titulo": "Pró-Reitoria de Extensão e Cultura da UFV",
+   "url": "https://www.pec.ufv.br/",
+   "nota": "eventos e projetos"
+  }
+ ],
+ "SIN498": [
+  {
+   "titulo": "Modelo abnTeX2 do CASI para a UFV",
+   "url": "https://github.com/CA-SI/modelo-documentos-abntex-UFV",
+   "nota": "modelo de monografia e artigo"
+  },
+  {
+   "titulo": "LOCUS — Repositório Institucional da UFV",
+   "url": "https://locus.ufv.br/",
+   "nota": "monografias, dissertações e teses da UFV"
+  },
+  {
+   "titulo": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
+   "url": "https://bdtd.ibict.br/",
+   "nota": "trabalhos de todo o país"
+  },
+  {
+   "titulo": "Portal de Periódicos CAPES",
+   "url": "https://www.periodicos.capes.gov.br/",
+   "nota": "acesso a bases pagas pela rede da UFV"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais e periódicos da Sociedade Brasileira de Computação"
+  },
+  {
+   "titulo": "Google Acadêmico",
+   "url": "https://scholar.google.com/",
+   "nota": "busca de artigos e citações"
+  },
+  {
+   "titulo": "Zotero",
+   "url": "https://www.zotero.org/",
+   "nota": "gerenciador de referências livre"
+  },
+  {
+   "titulo": "Overleaf",
+   "url": "https://www.overleaf.com/",
+   "nota": "editor LaTeX online e colaborativo"
+  },
+  {
+   "titulo": "abnTeX2",
+   "url": "https://www.abntex.net.br/",
+   "nota": "classes LaTeX para normas ABNT"
+  }
+ ],
+ "SIN499": [
+  {
+   "titulo": "Modelo abnTeX2 do CASI para a UFV",
+   "url": "https://github.com/CA-SI/modelo-documentos-abntex-UFV",
+   "nota": "modelo de monografia e artigo"
+  },
+  {
+   "titulo": "LOCUS — Repositório Institucional da UFV",
+   "url": "https://locus.ufv.br/",
+   "nota": "monografias, dissertações e teses da UFV"
+  },
+  {
+   "titulo": "BDTD — Biblioteca Digital Brasileira de Teses e Dissertações",
+   "url": "https://bdtd.ibict.br/",
+   "nota": "trabalhos de todo o país"
+  },
+  {
+   "titulo": "Portal de Periódicos CAPES",
+   "url": "https://www.periodicos.capes.gov.br/",
+   "nota": "acesso a bases pagas pela rede da UFV"
+  },
+  {
+   "titulo": "SBC OpenLib (SOL)",
+   "url": "https://sol.sbc.org.br/",
+   "nota": "anais e periódicos da Sociedade Brasileira de Computação"
+  },
+  {
+   "titulo": "Google Acadêmico",
+   "url": "https://scholar.google.com/",
+   "nota": "busca de artigos e citações"
+  },
+  {
+   "titulo": "Zotero",
+   "url": "https://www.zotero.org/",
+   "nota": "gerenciador de referências livre"
+  },
+  {
+   "titulo": "Overleaf",
+   "url": "https://www.overleaf.com/",
+   "nota": "editor LaTeX online e colaborativo"
+  },
+  {
+   "titulo": "abnTeX2",
+   "url": "https://www.abntex.net.br/",
+   "nota": "classes LaTeX para normas ABNT"
+  }
+ ]
+}

@@ -64,10 +64,12 @@ Apresentar as principais ferramentas para estudo, análise e melhoria dos proces
 - 6. ARAÚJO, L. C.; GARCIA, A. A. MARTINES, S. Gestão de Processos: melhores resultados e excelência organizacional. Ed. Atlas, 2011.
 - 7. Slides, artigos e estudos de casos atuais, sites. (A serem apresentados ao longo do curso)
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [BPMN (OMG)](https://www.omg.org/spec/BPMN/) — especificação da notação de processos; em inglês
+- [bpmn.io](https://bpmn.io/) — modelador BPMN no navegador
+- [Bizagi Modeler](https://www.bizagi.com/pt/plataforma/modeler) — modelagem de processos gratuita
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

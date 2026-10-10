@@ -40,10 +40,15 @@ Aprofundar sobre conceitos e métodos de programação através da resolução d
 - FEOFILOFF, P. Algoritmos em linguagem C. Campus, 2008.
 - GOODRICH, M. T.; TAMASSIA, R. Estruturas de dados e algoritmos em Java. 4. ed. Bookman, 2007.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [CSES Problem Set](https://cses.fi/problemset/) — lista clássica de problemas por tema; em inglês
+- [Competitive Programmer's Handbook (Antti Laaksonen)](https://cses.fi/book/book.pdf) — livro gratuito (PDF); em inglês
+- [CP-Algorithms](https://cp-algorithms.com/) — algoritmos explicados com implementação; em inglês
+- [Codeforces](https://codeforces.com/) — competições semanais; em inglês
+- [Beecrowd](https://judge.beecrowd.com/) — juiz online com problemas em português
+- [Maratona de Programação SBC](https://maratona.sbc.org.br/) — competição nacional; provas anteriores
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

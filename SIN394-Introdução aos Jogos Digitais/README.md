@@ -56,10 +56,14 @@ Desenvolver habilidades de projeto e programação no contexto de jogos digitais
 - FAN, Joel.; RIES, Eric.; TENITCHI, Calin. Black art of Java game programming. 1996.
 - MILLINGTON, I. Artificial intelligence for games. Elsevier/Morgan Kaufmann, 2006.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Documentação do Godot](https://docs.godotengine.org/pt-br/stable/) — motor de jogos livre, em português
+- [Game Programming Patterns (Robert Nystrom)](https://gameprogrammingpatterns.com/) — livro aberto; em inglês
+- [Red Blob Games](https://www.redblobgames.com/) — explicações interativas de algoritmos para jogos; em inglês
+- [Unity Learn](https://learn.unity.com/) — cursos gratuitos de Unity; em inglês
+- [itch.io — Game Jams](https://itch.io/jams) — maratonas de criação de jogos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

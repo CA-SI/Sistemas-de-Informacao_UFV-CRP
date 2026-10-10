@@ -58,10 +58,14 @@ Apresentar os métodos de avaliação de desempenho para que o aluno possa plane
 - MENASCE, D.A.; ALMEIDA, V.A.F. Capacity Planning for web Services: Metrics, Models and Methods. Prentice Hall, 2001.
 - MENASCE, D.A.; DOWDY, L.W.; ALMEIDA, V.A.F. Performance by Design: Capacity Planning by Example (Paperback), Prentice Hall, 2004.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [The Art of Computer Systems Performance Analysis (Raj Jain)](https://www.cse.wustl.edu/~jain/books/perfbook.htm) — site do livro com slides; em inglês
+- [Brendan Gregg — Systems Performance](https://www.brendangregg.com/) — métodos e ferramentas de análise de desempenho; em inglês
+- [SimPy](https://simpy.readthedocs.io/) — simulação de eventos discretos em Python; em inglês
+- [Apache JMeter](https://jmeter.apache.org/) — testes de carga
+- [Locust](https://locust.io/) — testes de carga em Python
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

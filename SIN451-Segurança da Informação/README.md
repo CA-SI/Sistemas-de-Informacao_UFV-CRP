@@ -71,10 +71,15 @@ Mostrar a importância da segurança da informação na organizações.
 - CAMPOS, A. Sistemas de Segurança da Informação Controlado os Riscos. Visual Books, 2007.
 - SÊMOLA, M. Gestão da Segurança da Informação: Uma visão executiva. 1. ed. Campus Elsevier, 2002.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Cartilha de Segurança para Internet (CERT.br)](https://cartilha.cert.br/) — em português
+- [OWASP Top 10](https://owasp.org/projects/top-ten) — riscos mais críticos em aplicações web; em inglês
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — laboratórios gratuitos de segurança web; em inglês
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) — em inglês
+- [Security Engineering (Ross Anderson)](https://www.cl.cam.ac.uk/archive/rja14/book.html) — livro aberto; em inglês
+- [OverTheWire Wargames](https://overthewire.org/wargames/) — desafios práticos de segurança; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

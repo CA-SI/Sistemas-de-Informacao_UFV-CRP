@@ -64,10 +64,12 @@ Compreender o funcionamento de organizações sociais e de negócio como Sistema
 - TURBAN, Efraim. Tecnologia da informação para gestão: transformando os negócios na economia digital. 6 ed. Porto Alegre: Bookman, 2010. xiii, várias paginações ISBN 97885377805082 (enc.).
 - O'BRIEN, James A.; MARAKAS, George M. Administração de sistemas de informação: uma introdução. 13 ed. São Paulo: McGraw Hill, 2007. xxii, 537 p.. ISBN 8586804770 (broch.).(
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Information Systems for Business and Beyond](https://open.umn.edu/opentextbooks/textbooks/information-systems-for-business-and-beyond) — livro aberto; em inglês
+- [Simpósio Brasileiro de Sistemas de Informação (SBSI)](https://sol.sbc.org.br/index.php/sbsi) — anais na SBC OpenLib
+- [Sociedade Brasileira de Computação](https://www.sbc.org.br/) — eventos, comissões especiais e POSCOMP
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -19,10 +19,13 @@ Permitir avanços e aprofundamentos em áreas específicas do curso Sistemas de 
 
 1. **Disciplina cujo assunto será definido e escolhido a cada oferecimento com base no interesse dos alunos, de modo a permitir avanços e aprofundamentos em áreas específicas da Computação** (60 h)
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [arXiv — Computer Science](https://arxiv.org/archive/cs) — preprints recentes por área; em inglês
+- [ACM Digital Library](https://dl.acm.org/) — artigos da ACM (acesso pela rede da UFV)
+- [IEEE Xplore](https://ieeexplore.ieee.org/) — artigos do IEEE (acesso pela rede da UFV)
+- [SBC OpenLib (SOL)](https://sol.sbc.org.br/) — anais de eventos brasileiros de Computação
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

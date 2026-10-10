@@ -82,10 +82,13 @@ Conhecer, compreender, discutir e interpretar os princípios básicos de estatí
 - MARTINS, G. de A. Estatística geral e aplicada. 3. ed. São Paulo: Atlas. 2005. 428p.
 - OLIVEIRA, Francisco Estevam Martins de. Estatística e probabilidade. São Paulo: Atlas, 1999.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [OpenIntro Statistics](https://www.openintro.org/book/os/) — livro aberto com dados e exercícios; em inglês
+- [Seeing Theory (Brown University)](https://seeing-theory.brown.edu/) — probabilidade e estatística com visualizações interativas
+- [Khan Academy — Estatística e Probabilidade](https://pt.khanacademy.org/math/statistics-probability) — vídeos e exercícios em português
+- [R for Data Science, 2ª ed.](https://r4ds.hadley.nz/) — análise de dados com R; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

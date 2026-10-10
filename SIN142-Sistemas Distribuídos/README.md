@@ -55,10 +55,13 @@ Apresentar aos alunos os conceitos relacionados a Sistemas Distribuídos.
 - PETERSON, Larry L. Redes de computadores: uma abordagem de sistemas. Rio de Janeiro, Campus, Elsevier, 2004.
 - TANENBAUM, Andrew S. Redes de computadores. Rio de Janeiro, Elsevier, Campus, 2003.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Distributed Systems, 4ª ed. (van Steen & Tanenbaum)](https://www.distributed-systems.net/index.php/books/ds4/) — livro gratuito para download pessoal; em inglês
+- [MIT 6.5840 — Distributed Systems](https://pdos.csail.mit.edu/6.824/) — aulas, artigos e laboratórios em Go; em inglês
+- [Raft Consensus Algorithm](https://raft.github.io/) — artigo e visualização do algoritmo de consenso
+- [gRPC](https://grpc.io/docs/) — chamadas de procedimento remoto; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

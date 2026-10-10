@@ -63,10 +63,13 @@ Os objetivos da disciplina são 1) desenvolver habilidades de leitura e audiçã
 - GUANDALINI, E. O. Técnicas de leitura em inglês - ESTÁGIO 1. ED. TEXTONOVO, 2002.
 - SWALES, J. (ED.) Episodes in ESP: a source and reference book on the development of English for science and technology. OXFORD: PERGAMON, 1985.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [BBC Learning English](https://www.bbc.co.uk/learningenglish) — aulas gratuitas
+- [Cambridge Dictionary](https://dictionary.cambridge.org/) — dicionário com pronúncia e tradução para português
+- [Academic Phrasebank (Universidade de Manchester)](https://www.phrasebank.manchester.ac.uk/) — frases para escrita acadêmica
+- [Purdue OWL](https://owl.purdue.edu/) — guias de escrita em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

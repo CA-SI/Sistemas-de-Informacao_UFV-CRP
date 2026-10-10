@@ -85,10 +85,13 @@ Proporcionar conhecimentos básicos, teóricos e práticos envolvendo Teoria dos
 - TENENBAUM, A.M. et al. Estruturas de dados usando C. Makron Books, 1995. 884 p.
 - ZIVIANI, N. Projeto de algoritmos: com implementações em Pascal e C. 2ª ed. São Paulo: Pioneira Thomson Learning, 2004. 522 p.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Algoritmos para Grafos em C (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) — notas de aula em português
+- [NetworkX](https://networkx.org/documentation/stable/) — biblioteca Python para grafos; em inglês
+- [CP-Algorithms — Graphs](https://cp-algorithms.com/) — algoritmos de grafos com implementação; em inglês
+- [VisuAlgo — grafos](https://visualgo.net/en/dfsbfs) — animações de BFS e DFS
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

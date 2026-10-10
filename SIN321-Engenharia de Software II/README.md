@@ -73,10 +73,13 @@ Apresentar os tipos de sistemas de apoio organizacional, gerencial e de tomada d
 - MELLOR, S. MDA Destilada: Princípios da Arquitetura Orientada por Modelos. Ciência Moderna. 2005.
 - PRESSMAN, R. Engenharia de Software, 6ª ed. Porto Alegre: AMGH, 2010.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Engenharia de Software Moderna (Marco Tulio Valente)](https://engsoftmoderna.info/) — livro aberto em português
+- [SWEBOK — Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) — IEEE Computer Society; em inglês
+- [Guia do Scrum](https://scrumguides.org/) — texto oficial, disponível em português
+- [Engenharia de Software Moderna — Cap. 7: Arquitetura](https://engsoftmoderna.info/cap7.html) — em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

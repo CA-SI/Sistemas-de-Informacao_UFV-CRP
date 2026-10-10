@@ -69,10 +69,13 @@ Aprender a parte estrutural e comportamental de um sistema operacional. Estrutur
 - SHAW, A. C. The logical design of operating systems. Prentice-Hall, Englewood Cliffs, 1974.
 - TANENBAUM, A.S.; WOODHULL, A.S. Sistemas operacionais: projeto e implementação. 2.ed. Bookman, 1999.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/) — livro aberto; em inglês
+- [xv6 (MIT)](https://pdos.csail.mit.edu/6.828/2023/xv6.html) — sistema operacional didático com código-fonte comentado; em inglês
+- [Linux man-pages](https://www.kernel.org/doc/man-pages/) — chamadas de sistema e bibliotecas; em inglês
+- [The Linux Command Line (William Shotts)](https://linuxcommand.org/tlcl.php) — livro aberto; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

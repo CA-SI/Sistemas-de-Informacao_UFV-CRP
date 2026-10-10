@@ -75,10 +75,13 @@ Compreender e implementar arquiteturas avançadas de redes neurais profundas. De
 - URAFSKY, Dan; MARTIN, James H. Speech and Language Processing. 3. ed. Prentice Hall, 2023.
 - SZELISKI, Richard. Computer Vision: Algorithms and Applications. 2. ed. Springer, 2022.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Dive into Deep Learning](https://d2l.ai/) — livro aberto com código executável; em inglês
+- [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/) — curso gratuito; em inglês
+- [Hugging Face Learn](https://huggingface.co/learn) — cursos de LLMs, transformers e agentes; em inglês
+- [Stanford CS224N — NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) — em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

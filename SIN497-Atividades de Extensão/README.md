@@ -21,10 +21,11 @@ As atividades de extensão extracurriculares deverão ser creditadas a partir da
 
 Estimular o estudante participar, desde o início do curso, de atividades de extensão paralelamente à formação sua acadêmica
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Pró-Reitoria de Extensão e Cultura da UFV](https://www.pec.ufv.br/) — editais e registro de projetos de extensão
+- [Site do curso de Sistemas de Informação (UFV-CRP)](https://sin.crp.ufv.br/) — regulamentos, matriz e informativos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -23,6 +23,9 @@ A matriz vigente do curso SIP (Campus Rio Paranaíba) está no Catálogo de Grad
 6. O README da raiz traz o fluxograma da matriz 2026 com pré-requisitos, o índice por período, as
    optativas e a tabela das disciplinas de matrizes anteriores.
 7. A geração é reproduzível por script, para atualizar quando sair um novo catálogo.
+8. Todo README de disciplina tem uma seção "Referências úteis" com livros abertos, cursos, documentação e
+   ferramentas, curada em `dados/referencias.json`, com links testados. Pastas sem material não exibem aviso
+   de pasta vazia; o convite para contribuir fica no rodapé.
 
 ## Critérios de aceite
 
@@ -30,8 +33,9 @@ A matriz vigente do curso SIP (Campus Rio Paranaíba) está no Catálogo de Grad
 - `python3 scripts/catalogo.py gerar` (re)gera todos os READMEs sem alterar os materiais.
 - Todos os links do README da raiz apontam para pastas existentes.
 - Nenhum arquivo de material é perdido (somente `git mv`).
+- `python3 scripts/catalogo.py verificar` testa os links de `dados/referencias.json`; respostas 403 de sites
+  com proteção anti-robô são aceitas.
 
 ## Fora de escopo
 
-- Curadoria de materiais externos (vídeos, listas, apostilas) por disciplina.
 - Equivalências oficiais para aproveitamento de estudos (definidas pela coordenação).

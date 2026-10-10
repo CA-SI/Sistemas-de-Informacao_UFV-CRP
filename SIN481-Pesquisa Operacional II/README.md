@@ -52,10 +52,13 @@ Introduzir ao aluno diversos tópicos de resolução de programação inteira, p
 - SHAMBLIN, James E. Pesquisa Operacional. São Paulo: Atlas, 1989.
 - WAGNER, Harvey M. Pesquisa operacional. 2ª ed. Rio de Janeiro: Prentice-Hall do Brasil, 1986. 851p.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Google OR-Tools](https://developers.google.com/optimization) — programação linear, inteira e roteamento; em inglês
+- [PuLP](https://coin-or.github.io/pulp/) — modelagem de programação linear em Python; em inglês
+- [Pyomo](https://www.pyomo.org/) — modelagem de otimização em Python; em inglês
+- [Gurobi Academic Program](https://www.gurobi.com/academics) — licença acadêmica gratuita de solver comercial; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

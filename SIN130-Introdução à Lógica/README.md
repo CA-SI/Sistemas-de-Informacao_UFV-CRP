@@ -44,10 +44,13 @@ O objetivo da disciplina é introduzir conceitos relacionados à lógica proposi
 - BITTENCOURT, G. Inteligência Artificial: Ferramentas e Teorias. 2 ed. UFSC, 1998.
 - MORTARI, C.A. Introdução à Lógica. 3 ed. UNESP, 2001.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [forall x: Calgary](https://forallx.openlogicproject.org/) — livro aberto de lógica proposicional e de predicados; em inglês
+- [Open Logic Project](https://openlogicproject.org/) — textos abertos de lógica; em inglês
+- [Introduction to Logic (Stanford)](http://intrologic.stanford.edu/) — curso e ferramentas interativas; em inglês
+- [Tree Proof Generator](https://www.umsu.de/trees/) — gera tableaux para fórmulas de lógica
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

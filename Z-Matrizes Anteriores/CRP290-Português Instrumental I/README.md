@@ -65,10 +65,12 @@ Distinguir os conceitos científicos sobre linguagem dos conceitos da gramática
 - TRAVAGLIA, L. C.; KOCH, I. G. V. Texto e coerência. 1a. ed. São Paulo: Cortez, 1989.
 - TRAVAGLIA, L. C.; KOCH, I. V. A coerência textual. 1a. ed. São Paulo: Contexto, 1990.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [VOLP — Vocabulário Ortográfico da Língua Portuguesa (ABL)](https://www.academia.org.br/nossa-lingua/busca-no-vocabulario) — ortografia oficial
+- [Manual de Redação da Presidência da República](https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica) — redação oficial
+- [Ciberdúvidas da Língua Portuguesa](https://ciberduvidas.iscte-iul.pt/) — dúvidas de gramática e uso
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

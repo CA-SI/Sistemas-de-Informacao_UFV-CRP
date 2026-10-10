@@ -51,10 +51,14 @@ Introduzir conceitos mais avançados em redes de computadores como as redes de a
 - DUTRA, L. S.V.; CRUZ, MARCOS A.C.; CEREDA, R.L.D.; SEWAYBRICKER, RODRIGUES, R. - ATM: O Futuro das Redes, Makron Books, 1997.
 - TANENBAUM, A.S. Computer Networks, 3nd Ed., Prentice Hall, 1996.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [RFC 2475 — Arquitetura de Serviços Diferenciados (DiffServ)](https://www.rfc-editor.org/info/rfc2475/) — em inglês
+- [iPerf](https://iperf.fr/) — medição de vazão em redes
+- [RNP — Rede Nacional de Ensino e Pesquisa](https://www.rnp.br/) — rede acadêmica de alto desempenho do Brasil
+- [Computer Networking: a Top-Down Approach — recursos (Kurose & Ross)](https://gaia.cs.umass.edu/kurose_ross/index.php) — vídeos, laboratórios Wireshark e exercícios interativos; em inglês
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) — livro aberto (Peterson & Davie); em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

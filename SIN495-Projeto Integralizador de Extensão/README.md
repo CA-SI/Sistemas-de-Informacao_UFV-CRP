@@ -40,10 +40,11 @@ Desenvolver atividade acadêmica que seja integrada em termos disciplinares e co
 - LISBOA FILHO, Flavi Ferreira. Extensão universitária: gestão, comunicação e desenvolvimento regional. Santa Maria: FACOS-UFSM, 2022. E-book.
 - SILVA, Antonio Wadirson C.; FRANCO, Paulo Fernando Campbell (Org.). Curricularização da extensão: compromiso social e inovação. Santos: Editora Universitária Leopoldianum, 2020. 204 p. E-book.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Pró-Reitoria de Extensão e Cultura da UFV](https://www.pec.ufv.br/) — editais e registro de projetos de extensão
+- [Site do curso de Sistemas de Informação (UFV-CRP)](https://sin.crp.ufv.br/) — regulamentos, matriz e informativos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

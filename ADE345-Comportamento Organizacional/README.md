@@ -56,10 +56,11 @@ Introduzir as/os estudantes na discussão sobre Comportamento Organizacional a p
 - DUBRIN, A. J. Fundamentos do comportamento organizacional. São Paulo: Thompson, 2003.
 - SOUZA, E. L. P. Clima e cultura organizacionais: como se manifestam e como se manejam. São Paulo: Edgard Blucher, 1978.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [OpenStax — Organizational Behavior](https://openstax.org/details/books/organizational-behavior) — livro aberto; em inglês
+- [OpenStax — Principles of Management](https://openstax.org/details/books/principles-management) — livro aberto; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

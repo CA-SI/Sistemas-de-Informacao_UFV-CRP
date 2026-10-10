@@ -57,10 +57,15 @@ Apresentar aos alunos conceitos relacionados com os softwares livres e apresenta
 - TAURION, C. Software Livre: Pontecialidades e Modelos de Negócio. Brasport. 2004.
 - VELLOSO, F.C. Informática: conceitos básicos. 7. ed. Rio de Janeiro: Elsevier: Campus, 2003. 407p.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [O que é software livre? (GNU)](https://www.gnu.org/philosophy/free-sw.pt-br.html) — definição das quatro liberdades
+- [Open Source Initiative — licenças](https://opensource.org/licenses) — em inglês
+- [Choose a License](https://choosealicense.com/) — guia para escolher licença de projeto; em inglês
+- [Pro Git](https://git-scm.com/book/pt-br/v2) — livro aberto em português
+- [The Debian Administrator's Handbook](https://debian-handbook.info/) — livro aberto sobre administração de servidores
+- [The Linux Command Line (William Shotts)](https://linuxcommand.org/tlcl.php) — livro aberto; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -11,12 +11,16 @@
 
 ## Arquitetura
 
-`scripts/catalogo.py` com três subcomandos:
+`scripts/catalogo.py` com quatro subcomandos:
 
 - `baixar`: lê a matriz, baixa e interpreta os PDFs e grava `dados/catalogo-2026.json`.
 - `organizar`: compara as pastas com o catálogo e lista (ou, com `--aplicar`, executa) os `git mv` e `mkdir`.
 - `gerar`: lê o JSON e escreve o `README.md` de cada pasta, e o bloco entre
   `<!-- MATRIZ:INICIO -->` e `<!-- MATRIZ:FIM -->` no README da raiz.
+- `verificar`: testa os links de `dados/referencias.json`.
+
+`dados/referencias.json` é curadoria manual (`{código: [{titulo, url, nota}]}`), separada do JSON do catálogo para
+não ser sobrescrita por `baixar`.
 
 A lista de disciplinas de matrizes anteriores e as correspondências ficam numa tabela no próprio
 script (`LEGADO`), por serem curadoria e não dado do catálogo.

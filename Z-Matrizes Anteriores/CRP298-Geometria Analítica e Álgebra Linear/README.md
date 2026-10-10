@@ -69,10 +69,14 @@ Introduzir conceitos de álgebra linear, uma noção sobre álgebra vetorial no 
 - NATHAN, M. S. Vetores e matrizes. Livros Técnicos e Científicos Editora S.A. 1988.
 - STEINBRUCH, Alfredo; WINTERLE, Paulo. Álgebra linear. 2 ed. São Paulo: Pearson Makron Books, 1987. 583 p.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [MIT 18.06 — Linear Algebra (Gilbert Strang)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) — MIT OpenCourseWare; em inglês
+- [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — série de vídeos com intuição geométrica; legendas em português
+- [Linear Algebra (Jim Hefferon)](https://hefferon.net/linearalgebra/) — livro aberto com exercícios resolvidos; em inglês
+- [Khan Academy — Álgebra Linear](https://pt.khanacademy.org/math/linear-algebra) — vídeos em português
+- [GeoGebra 3D](https://www.geogebra.org/3d) — visualização de vetores, retas e planos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

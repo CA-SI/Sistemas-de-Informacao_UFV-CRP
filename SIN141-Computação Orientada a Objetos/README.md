@@ -85,10 +85,14 @@ Apresentar os conceitos básicos de Orientação a Objetos e capacitar os alunos
 - HARVEY, M. D.; DEITEL, P.J. C : como programar. 5. ed. São Paulo: Pearson Prentice Hall, 2006.
 - SIERRA, K. e BATES, B. Certificação Sun Para Programador Java 6, 2. ed. Alta Books, 2008.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Refactoring.Guru — Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns) — padrões GoF explicados em português
+- [The Java Tutorials (Oracle)](https://docs.oracle.com/javase/tutorial/) — tutorial oficial; em inglês
+- [Classes em Python — tutorial oficial](https://docs.python.org/pt-br/3/tutorial/classes.html) — documentação em português
+- [Think Java, 2ª ed.](https://greenteapress.com/wp/think-java-2e/) — livro aberto; em inglês
+- [PlantUML](https://plantuml.com/) — diagramas UML em texto
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

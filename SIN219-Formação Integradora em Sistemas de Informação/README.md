@@ -90,10 +90,12 @@ Discutir, analisar e correlacionar de forma interdisciplinar os principais conce
 - SOUTO, Leonardo Fernandes. Gestão da informação e do conhecimento: práticas e reflexões. Editora Interciência, 2013. 314 p. ISBN 9788571933354.
 - WEILL, Peter; ROSS, Jeanne W; SANTOS, Roger Maioli dos. Governança de TI: tecnologia da informação: como as empresas com melhor desempenho administram os direitos decisórios de TI na busca por resultados superiores. São Paulo, SP: Makron Books, 2006. 276 p. ISBN 8589384780 (broch.).
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [ENADE (INEP)](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade) — diretrizes e calendário
+- [ENADE — provas e gabaritos anteriores](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enade/provas-e-gabaritos) — provas de Sistemas de Informação
+- [POSCOMP (SBC)](https://www.sbc.org.br/poscomp) — exame nacional para ingresso na pós-graduação em Computação
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

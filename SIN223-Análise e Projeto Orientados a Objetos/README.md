@@ -50,10 +50,13 @@ Apresentar os métodos para análise e projeto orientados a objetos de forma ger
 - COAD,P. Projeto baseado em objetos. RJ: Campus. 1993.
 - COLEMAN,D. et alli. Desenvolvimento Orientado a Objetos: O Método FUSION. RJ: Campus. 1993.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [PlantUML](https://plantuml.com/) — diagramas UML em texto
+- [Especificação UML (OMG)](https://www.omg.org/spec/UML/) — norma oficial; em inglês
+- [Refactoring.Guru — Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns) — padrões GoF explicados em português
+- [Engenharia de Software Moderna (Marco Tulio Valente)](https://engsoftmoderna.info/) — livro aberto em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -52,10 +52,13 @@ Apresentar novas tecnologias de baixo custo que utilizam sistemas embarcados; In
 
 - EDMINISTER, J. A. Circuitos Elétricos. Coleção Schaum. Editora McGraw-Hill do Brasil. São Paulo. 1980.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Documentação do Arduino](https://docs.arduino.cc/) — em inglês
+- [Tinkercad Circuits](https://www.tinkercad.com/circuits) — simulador de circuitos e Arduino no navegador
+- [Falstad Circuit Simulator](https://www.falstad.com/circuit/) — simulador de circuitos elétricos
+- [All About Circuits — Textbook](https://www.allaboutcircuits.com/textbook/) — livro aberto de eletricidade e eletrônica; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

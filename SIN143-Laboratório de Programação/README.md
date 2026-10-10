@@ -57,10 +57,14 @@ Elaborar modelo conceitual de banco de dados; Entender o modelo MVC e arquitetur
 - JQuery: https://jquery.com/
 - AJAX: https://www.w3schools.com/xml/ajax_intro.asp
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/) — HTML, CSS, JavaScript e HTTP em português
+- [Full Stack Open (Universidade de Helsinque)](https://fullstackopen.com/ptbr/) — curso gratuito de desenvolvimento web moderno, em português
+- [The Odin Project](https://www.theodinproject.com/) — trilha gratuita de desenvolvimento web; em inglês
+- [Documentação do Django](https://docs.djangoproject.com/) — framework web MVC/MTV em Python
+- [Engenharia de Software Moderna (Marco Tulio Valente)](https://engsoftmoderna.info/) — livro aberto em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

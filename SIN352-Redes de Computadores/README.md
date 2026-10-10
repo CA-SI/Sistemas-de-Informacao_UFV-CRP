@@ -83,10 +83,18 @@ Entende como funciona um rede de computadores tanto física, como virtualmente. 
 - DERSLER, F.J. Guia para Interligação de Redes Locais, Editora Campos, 1993.
 - SOARES, L.F. et al. Redes de computadores: das Lans, Mans e Wans às redes ATM, Campus, Rio de Janeiro, 1997.
 
+## Referências úteis
+
+- [Computer Networking: a Top-Down Approach — recursos (Kurose & Ross)](https://gaia.cs.umass.edu/kurose_ross/index.php) — vídeos, laboratórios Wireshark e exercícios interativos; em inglês
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) — livro aberto (Peterson & Davie); em inglês
+- [Documentação do Wireshark](https://www.wireshark.org/docs/) — captura e análise de pacotes
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) — programação com sockets; em inglês
+- [RFC Editor](https://www.rfc-editor.org/) — especificações oficiais dos protocolos da Internet
+
 ## Materiais neste repositório
 
 - [3929](https://github.com/MatheusRV/Computer-Networks-Course) (submódulo git)
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

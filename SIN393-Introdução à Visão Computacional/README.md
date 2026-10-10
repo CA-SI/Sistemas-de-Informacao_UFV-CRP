@@ -52,10 +52,13 @@ Compreender os conceitos básicos de manipulação e processamento de imagens di
 - DUDA, R.O.; HART, P.E.; STORK, D.G.. Pattern classification. Wiley, 2001.
 - GONZALEZ, R.; WOODS, R.E. Digital image processing. 3.ed. Prentice Hall, 2007.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Computer Vision: Algorithms and Applications, 2ª ed. (Szeliski)](https://szeliski.org/Book/) — livro gratuito em PDF; em inglês
+- [Stanford CS231n — notas de aula](https://cs231n.github.io/) — redes convolucionais para visão; em inglês
+- [Documentação do OpenCV](https://docs.opencv.org/4.x/) — em inglês
+- [Tutoriais do PyTorch](https://docs.pytorch.org/tutorials/) — em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

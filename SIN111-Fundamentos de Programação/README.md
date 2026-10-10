@@ -58,10 +58,14 @@ Desenvolver noções básicas de programação de computadores, possibilitando a
 - BACKES, A. R. Algoritmos e estruturas de dados em linguagem C. 1. ed. LTC, 2022.
 - SEBESTA, R.W. Concepts of Programming Languages. 8.ed. Addison Wesley, 2007
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [CS50x — Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/) — curso gratuito com vídeos e exercícios; em inglês
+- [Tutorial oficial de Python](https://docs.python.org/pt-br/3/tutorial/) — documentação em português
+- [Python Tutor](https://pythontutor.com/) — visualiza a execução de programas passo a passo
+- [Think Python, 3ª ed. (Allen Downey)](https://allendowney.github.io/ThinkPython/) — livro aberto; em inglês
+- [Beecrowd](https://judge.beecrowd.com/) — juiz online com problemas em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

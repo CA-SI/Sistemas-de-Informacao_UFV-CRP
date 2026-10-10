@@ -48,10 +48,12 @@ Compreensão do vocabulário básico de Língua brasileira de sinais - Libras, c
 - QUADROS, R.M. de.; KARNOPP, L.B. (col). Língua de sinais brasileira, estudos linguísticos. Porto Alegre: Artmed, 2004.
 - Secretaria do Estado de Educação de Minas Gerais. Vocabulário Básico de Libras: Língua Brasileira de Sinais. Coleção Lições de Minas. vol XXIV, 2002.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Dicionário de Libras (INES)](https://dicionario.ines.gov.br/) — dicionário com vídeos
+- [VLibras](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras) — tradutor automático português–Libras
+- [Spread the Sign](https://www.spreadthesign.com/) — dicionário internacional de línguas de sinais
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

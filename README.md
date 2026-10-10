@@ -39,7 +39,7 @@ Matriz do curso de Sistemas de Informação (SIP) no [Catálogo de Graduação U
 
 O quadro acima é o do catálogo. A soma das disciplinas obrigatórias listadas na matriz dá 2640 h.
 
-Cada pasta tem um `README.md` com ementa, objetivos, conteúdo programático e bibliografia do programa analítico oficial.
+Cada pasta tem um `README.md` com ementa, objetivos, conteúdo programático e bibliografia do programa analítico oficial, além de referências úteis (livros abertos, cursos, documentação e ferramentas).
 
 ### Fluxograma
 
@@ -349,7 +349,11 @@ python3 scripts/catalogo.py baixar               # baixa matriz e programas anal
 python3 scripts/catalogo.py organizar            # mostra as pastas a criar/renomear
 python3 scripts/catalogo.py organizar --aplicar  # executa os git mv
 python3 scripts/catalogo.py gerar                # regera os READMEs
+python3 scripts/catalogo.py verificar            # testa os links das referências úteis
 ```
+
+As referências úteis de cada disciplina ficam em [`dados/referencias.json`](dados/referencias.json). Para sugerir
+uma, edite esse arquivo e rode `gerar`.
 
 A especificação está em [`docs/specs/001-matriz-curricular-2026`](docs/specs/001-matriz-curricular-2026/spec.md).
 

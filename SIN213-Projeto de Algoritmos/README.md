@@ -77,10 +77,18 @@ Apresentar um conjunto de técnicas de projeto e análise de algoritmos, com ên
 - SCHILDT, H.C. Completo e Total. 3. ed. Pearson, 2005.
 - SCHNERMAN, E.R. Matemática Discreta: uma introdução. São Paulo: Thomson Learning, 2006.
 
+## Referências úteis
+
+- [Análise de Algoritmos (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/analise_de_algoritmos/) — notas de aula em português
+- [Algorithms (Jeff Erickson)](https://jeffe.cs.illinois.edu/teaching/algorithms/) — livro aberto; em inglês
+- [MIT 6.006 — Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) — aulas e listas no MIT OpenCourseWare; em inglês
+- [MIT 6.046J — Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) — MIT OpenCourseWare; em inglês
+- [VisuAlgo](https://visualgo.net/) — animações de algoritmos
+
 ## Materiais neste repositório
 
 - [3929](https://github.com/MatheusRV/Analysis-of-Algorithms-Course) (submódulo git)
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -59,10 +59,12 @@ Introduzir as/os estudantes no debate sobre a construção da sociologia e das C
 - HARVEY, David. A condição pós-moderna. São Paulo:Loyola, 2008.
 - MARX, Karl. O capital. São Paulo: Civilização Brasileira, 2008. Vol 1.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [OpenStax — Introduction to Sociology 3e](https://openstax.org/details/books/introduction-sociology-3e) — livro aberto; em inglês
+- [Domínio Público](http://www.dominiopublico.gov.br/) — obras clássicas em domínio público
+- [SciELO Brasil](https://www.scielo.br/) — artigos científicos de acesso aberto
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

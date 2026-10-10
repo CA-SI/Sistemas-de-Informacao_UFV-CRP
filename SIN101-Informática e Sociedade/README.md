@@ -62,10 +62,14 @@ O objetivo da disciplina é favorecer o desenvolvimento da consciência crítica
 - LEONARD, Annie. A história das coisas: da natureza ao lixo, o que acontece com tudo o que consumimos. Rio de Janeiro: Jorge Zahar Editor, 2011.
 - WAZLAWICK, Raul Sidnei. História da Computação. Editora Elsevier, 2016.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Lei Geral de Proteção de Dados (Lei 13.709/2018)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) — texto oficial
+- [Marco Civil da Internet (Lei 12.965/2014)](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm) — texto oficial
+- [Código de Ética da ACM](https://www.acm.org/code-of-ethics) — em inglês
+- [Cetic.br](https://cetic.br/) — pesquisas sobre o uso de TIC no Brasil
+- [Computer History Museum](https://computerhistory.org/) — história da computação; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

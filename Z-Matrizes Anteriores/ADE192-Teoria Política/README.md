@@ -67,10 +67,12 @@ A disciplina Teoria Política tem por objetivo transmitir o conhecimento de teor
 - VON MISES, Ludwig. As seis lições. Rio de Janeiro: José Olímpio e Instituto Liberal, 1985.
 - YOUNG, Oran R. Introdução à análise de sistemas políticos. Rio de Janeiro: Zahar, 1970.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) — verbetes de filosofia política; em inglês
+- [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) — texto oficial
+- [Domínio Público](http://www.dominiopublico.gov.br/) — obras clássicas em domínio público
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -67,10 +67,12 @@ Propiciar um conhecimento crítico das principais correntes teóricas da Adminis
 - STONER, J. A. F.; FREEMAN, R. E. Administração. 5. ed. Rio de Janeiro: Prentice Hall do Brasil, 2009
 - TAYLOR, F. W. Princípios de administração científica. 8. ed. São Paulo: Atlas, 1990
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [OpenStax — Principles of Management](https://openstax.org/details/books/principles-management) — livro aberto; em inglês
+- [OpenStax — Organizational Behavior](https://openstax.org/details/books/organizational-behavior) — livro aberto; em inglês
+- [Sebrae](https://sebrae.com.br/) — guias de gestão para pequenas empresas
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

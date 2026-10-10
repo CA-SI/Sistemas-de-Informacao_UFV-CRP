@@ -78,10 +78,18 @@ Oferecer uma visao geral dos principais conceitos relacionados a uma gestao efet
 - SOMMERVILLE, I. Engenharia de Software. São Paulo, Addison-Wesley, 6ª Edição, 2007.
 - VALERIANO, D.L. Gerência em projetos: pesquisa, desenvolvimento e engenharia. Makron Books, 1998.
 
+## Referências úteis
+
+- [Guia PMBOK (PMI)](https://www.pmi.org/pmbok-guide-standards) — padrão de gerenciamento de projetos; em inglês
+- [Guia do Scrum](https://scrumguides.org/) — texto oficial, disponível em português
+- [Kanban Guide (Kanban University)](https://kanban.university/kanban-guide/) — em inglês
+- [ProjectLibre](https://www.projectlibre.com/) — software livre de gestão de projetos
+- [Engenharia de Software Moderna — Cap. 2: Processos](https://engsoftmoderna.info/cap2.html) — métodos ágeis, em português
+
 ## Materiais neste repositório
 
 - [PMBOK 5ª Edição.pdf](PMBOK%205%C2%AA%20Edi%C3%A7%C3%A3o.pdf)
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

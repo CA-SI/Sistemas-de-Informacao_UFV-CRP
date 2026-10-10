@@ -69,10 +69,14 @@ Introduzir os conceitos básicos de geração de imagens por computação. Apres
 - FOLEY, J.D.; VAN DAM, A.; FEINER, S.K.; HUHES, J.F.; PHILLIPS, R.L. Introduction to computer graphics. Reading, Mass.: Addison-Wesley, 1993.
 - SHIRLEY, P. Fundamentals of computer graphics, A K Peter, 2005.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [LearnOpenGL](https://learnopengl.com/) — tutorial de OpenGL moderno; em inglês
+- [Scratchapixel](https://www.scratchapixel.com/) — fundamentos de renderização; em inglês
+- [Ray Tracing in One Weekend](https://raytracing.github.io/) — série de livros abertos; em inglês
+- [The Book of Shaders](https://thebookofshaders.com/) — shaders de fragmento passo a passo
+- [Documentação do three.js](https://threejs.org/docs/) — gráficos 3D no navegador; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

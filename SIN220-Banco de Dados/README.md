@@ -60,10 +60,14 @@ Identificar os principais componentes em um sistema gerenciador de bancos de dad
 - ROB, Peter; CORONEL, Carlos. Sistemas de banco de dados: projeto, implementação e gerenciamento. São Paulo: Cengage Learning, 2011. xxi, 711 p. ISBN 9788522107865 (broch.).
 - TEOREY, Tobey J; VIEIRA, Daniel. Projeto e modelagem de banco de dados. 2 ed. Rio de Janeiro: Elsevier, 2014. 309 p. ISBN 9788535264456 (broch.).
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Documentação do PostgreSQL](https://www.postgresql.org/docs/current/) — em inglês
+- [SQLBolt](https://sqlbolt.com/) — exercícios interativos de SQL; em inglês
+- [CMU 15-445 — Database Systems](https://15445.courses.cs.cmu.edu/) — aulas gravadas e projetos; em inglês
+- [DB Fiddle](https://www.db-fiddle.com/) — testa consultas SQL no navegador
+- [brModelo](https://github.com/chcandido/brModelo) — ferramenta brasileira de modelagem conceitual e lógica
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

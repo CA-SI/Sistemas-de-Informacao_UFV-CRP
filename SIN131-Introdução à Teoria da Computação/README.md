@@ -71,10 +71,12 @@ Entender os conceitos relativos às teorias das linguagens formais e autômatos 
 - SIPSER, M. Introduction to the Theory of Computation. 2. ed. PWS Publishing Compan, 2005.
 - VIEIRA, J. N. Introdução aos Fundamentos da Computação. Ed. Pioneira Thomson Learning, 2006.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [MIT 18.404J — Theory of Computation (Michael Sipser)](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) — aulas gravadas; em inglês
+- [JFLAP](https://www.jflap.org/) — simulador de autômatos, gramáticas e máquinas de Turing
+- [Open Logic Project](https://openlogicproject.org/) — computabilidade e lógica; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

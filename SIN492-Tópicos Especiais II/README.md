@@ -25,6 +25,13 @@ Permitir avanços e aprofundamentos em áreas específicas do curso Sistemas de 
 
 - Depende dos tópicos a serem abordados na época em que a disciplina for ministrada.
 
+## Referências úteis
+
+- [arXiv — Computer Science](https://arxiv.org/archive/cs) — preprints recentes por área; em inglês
+- [ACM Digital Library](https://dl.acm.org/) — artigos da ACM (acesso pela rede da UFV)
+- [IEEE Xplore](https://ieeexplore.ieee.org/) — artigos do IEEE (acesso pela rede da UFV)
+- [SBC OpenLib (SOL)](https://sol.sbc.org.br/) — anais de eventos brasileiros de Computação
+
 ## Materiais neste repositório
 
 - [Prof. Haddad - Metaheurísticas/Aula 01 - Conceitos Básicos (Marcone).pdf](Prof.%20Haddad%20-%20Metaheur%C3%ADsticas/Aula%2001%20-%20Conceitos%20B%C3%A1sicos%20%28Marcone%29.pdf)
@@ -34,4 +41,4 @@ Permitir avanços e aprofundamentos em áreas específicas do curso Sistemas de 
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

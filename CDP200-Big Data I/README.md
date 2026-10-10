@@ -77,10 +77,12 @@ Compreender os fundamentos de Big Data e seus desafios Dominar o ecossistema Had
 - INMON, W. H. Building the Data Warehouse. 4. ed. Hoboken: Wiley, 2005.
 - NETTO, Amílcar; MACIEL, Francisco. Python para Data Science: e Machine Learning Descomplicado. 1. ed. Rio de Janeiro: Alta Books, 2021.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Mining of Massive Datasets](http://www.mmds.org/) — livro aberto e aulas (Leskovec, Rajaraman, Ullman); em inglês
+- [Documentação do Apache Spark](https://spark.apache.org/docs/latest/) — em inglês
+- [Documentação do Apache Hadoop](https://hadoop.apache.org/docs/stable/) — em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

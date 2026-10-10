@@ -5,6 +5,7 @@ Uso:
     python3 scripts/catalogo.py baixar     # gera dados/catalogo-<ano>.json a partir do site da UFV
     python3 scripts/catalogo.py organizar  # cria/renomeia pastas com git mv (use --aplicar)
     python3 scripts/catalogo.py gerar      # escreve os README.md das disciplinas e o índice da raiz
+    python3 scripts/catalogo.py verificar  # testa os links de dados/referencias.json
 
 Requer Python 3.9+ e `pdftotext` (poppler) para ler os programas analíticos.
 """
@@ -25,6 +26,7 @@ ANO = 2026
 CURSO, CAMPUS = "SIP", "crp"
 CATALOGO = "https://catalogo.ufv.br"
 DADOS = RAIZ / "dados" / f"catalogo-{ANO}.json"
+REFERENCIAS = RAIZ / "dados" / "referencias.json"  # curadoria: livros abertos, cursos, documentação e ferramentas
 LEGADO_DIR = "Z-Matrizes Anteriores"
 PERIODOS = ["1", "2", "3", "4", "5", "6", "7", "8", "0"]  # 0 = optativas
 
@@ -363,7 +365,7 @@ def rotulo_tipo(d):
     return f"Matriz anterior (programa do Catálogo {d['catalogo']})"
 
 
-def readme_disciplina(d, cat, deps):
+def readme_disciplina(d, cat, deps, uteis):
     pasta = caminho(d)
     carga = f"{d['horas']} h" if d["horas"] is not None else ""
     if d.get("teorica") is not None:
@@ -413,13 +415,21 @@ def readme_disciplina(d, cat, deps):
             if refs:
                 linhas += [f"### {titulo}", ""] + [f"- {r}" for r in refs] + [""]
 
-    linhas += ["## Materiais neste repositório", ""]
+    if uteis.get(d["codigo"]):
+        linhas += ["## Referências úteis", ""]
+        linhas += [f"- [{r['titulo']}]({r['url']})" + (f" — {r['nota']}" if r["nota"] else "") for r in uteis[d["codigo"]]]
+        linhas.append("")
+
     itens = materiais(RAIZ / pasta)
-    linhas += itens if itens else ["Ainda não há materiais nesta pasta. Veja [como contribuir]"
-                                   f"({link(Path('README.md'), pasta)}#como-contribuir)."]
-    linhas += ["", "---", "",
-               f"<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. "
-               f"Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>", ""]
+    if itens:
+        linhas += ["## Materiais neste repositório", ""] + itens + [""]
+
+    contribuir = f"{link(Path('README.md'), pasta)}#como-contribuir"
+    linhas += ["---", "",
+               "<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; "
+               f"referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? "
+               f"[Contribua]({contribuir}). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este "
+               "arquivo.</sub>", ""]
     return "\n".join(linhas)
 
 
@@ -463,7 +473,7 @@ def indice_raiz(cat):
     if q.get("horas_obrigatorias") and int(q["horas_obrigatorias"]) != h_obrig:
         out += [f"O quadro acima é o do catálogo. A soma das disciplinas obrigatórias listadas na matriz dá {h_obrig} h.", ""]
     out += ["Cada pasta tem um `README.md` com ementa, objetivos, conteúdo programático e bibliografia do programa "
-            "analítico oficial.", "",
+            "analítico oficial, além de referências úteis (livros abertos, cursos, documentação e ferramentas).", "",
            "### Fluxograma", "",
            "Setas contínuas indicam pré-requisito; setas tracejadas, correquisito (marcado com `*` no catálogo).", ""]
     out += mermaid(cat) + [""]
@@ -490,12 +500,13 @@ def indice_raiz(cat):
 def gerar(_args):
     cat = carregar()["disciplinas"]
     deps = dependentes(cat)
+    refs = json.loads(REFERENCIAS.read_text(encoding="utf-8")) if REFERENCIAS.exists() else {}
     for d in cat.values():
         pasta = RAIZ / caminho(d)
         if not pasta.exists():
             print(f"aviso: pasta ausente {pasta.relative_to(RAIZ)} (rode `organizar --aplicar`)", file=sys.stderr)
             continue
-        (pasta / "README.md").write_text(readme_disciplina(d, cat, deps), encoding="utf-8")
+        (pasta / "README.md").write_text(readme_disciplina(d, cat, deps, refs), encoding="utf-8")
     readme = RAIZ / "README.md"
     texto = readme.read_text(encoding="utf-8")
     inicio, fim = "<!-- MATRIZ:INICIO -->", "<!-- MATRIZ:FIM -->"
@@ -508,6 +519,35 @@ def gerar(_args):
     print(f"{len(cat)} READMEs de disciplina e índice da raiz atualizados")
 
 
+NAVEGADOR = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+}
+
+
+def verificar(_args):
+    """Testa os links de dados/referencias.json. 403 costuma ser bloqueio anti-robô, não link quebrado."""
+    from concurrent.futures import ThreadPoolExecutor
+    refs = json.loads(REFERENCIAS.read_text(encoding="utf-8"))
+    urls = sorted({r["url"] for lista in refs.values() for r in lista})
+
+    def status(url):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=NAVEGADOR), timeout=30) as r:
+                return url, r.status
+        except urllib.error.HTTPError as e:
+            return url, e.code
+        except Exception as e:  # timeout, DNS, TLS
+            return url, type(e).__name__
+
+    with ThreadPoolExecutor(16) as ex:
+        falhas = [(u, s) for u, s in ex.map(status, urls) if s != 200]
+    for url, s in falhas:
+        print(f"{s}\t{url}")
+    print(f"{len(urls) - len(falhas)}/{len(urls)} links responderam 200")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -516,6 +556,7 @@ def main():
     org.add_argument("--aplicar", action="store_true", help="executa os git mv/mkdir em vez de só listar")
     org.set_defaults(func=organizar)
     sub.add_parser("gerar").set_defaults(func=gerar)
+    sub.add_parser("verificar", help="testa os links de dados/referencias.json").set_defaults(func=verificar)
     args = ap.parse_args()
     args.func(args)
 

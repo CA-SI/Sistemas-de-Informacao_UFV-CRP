@@ -51,10 +51,12 @@ Apresentar para os alunos os modelos de hiperdocumentos, os modelos de aplicaç�
 - RIBAS, V.U. Ambientes Adaptativos : Trilhando Novos Caminhos para a Hipermídia, 1ª Ed. Editora Ciência Moderna, 2006.
 - RIBAS, V.U., PEREIRA, A.T.C. e SANTOS, N. Ambientes Hipermidiáticos - Volume 1, 1ª Ed. Editora Ciência Moderna, 2006.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [HTML Living Standard (WHATWG)](https://html.spec.whatwg.org/) — em inglês
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/) — HTML, CSS, JavaScript e HTTP em português
+- [10 heurísticas de usabilidade (Nielsen Norman Group)](https://www.nngroup.com/articles/ten-usability-heuristics/) — em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

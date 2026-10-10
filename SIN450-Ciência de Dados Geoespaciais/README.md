@@ -43,10 +43,14 @@ Criar visualizações de dados geoespaciais.
 - QGIS User Guide — QGIS Documentation documentation. Disponível em: https://docs.qgis.org/3.28/en/docs/user_manual/. Acesso em: 9 jul. 2023.
 - PostGIS 3.3.4dev Manual. Disponível em: http://postgis.net/docs/manual-3.3/. Acesso em: 9 jul. 2023.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Geographic Data Science with Python](https://geographicdata.science/book/) — livro aberto; em inglês
+- [Geocomputation with Python](https://py.geocompx.org/) — livro aberto; em inglês
+- [GeoPandas](https://geopandas.org/) — dados vetoriais em Python; em inglês
+- [Python for Data Analysis, 3ª ed. (Wes McKinney)](https://wesmckinney.com/book/) — livro aberto; em inglês
+- [Análise Espacial de Dados Geográficos (INPE)](http://www.dpi.inpe.br/gilberto/livro/analise/) — livro aberto em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

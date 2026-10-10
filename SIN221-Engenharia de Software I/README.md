@@ -92,10 +92,16 @@ Fornecer uma visão geral do processo de desenvolvimento de software e qualidade
 - SHNEIDERMAN, B. Designing the user interface: strategies for effective human-computer interaction. Reading, Massachusstes, Addison-Wesley, 2009.
 - SOMMERVILLE, I. Software Engineering.,Addison-Wesley, 7th edition, 2007.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Engenharia de Software Moderna (Marco Tulio Valente)](https://engsoftmoderna.info/) — livro aberto em português
+- [SWEBOK — Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering) — IEEE Computer Society; em inglês
+- [Guia do Scrum](https://scrumguides.org/) — texto oficial, disponível em português
+- [The Twelve-Factor App](https://12factor.net/pt_br/) — boas práticas para aplicações em nuvem
+- [Martin Fowler — artigos](https://martinfowler.com/) — arquitetura, refatoração e processos; em inglês
+- [PlantUML](https://plantuml.com/) — diagramas UML em texto
+- [Especificação UML (OMG)](https://www.omg.org/spec/UML/) — norma oficial; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

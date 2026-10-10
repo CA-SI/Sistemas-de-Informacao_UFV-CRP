@@ -107,10 +107,13 @@ Propiciar aos discentes a familiarização com as noções básicas da teoria ec
 - VARIAN, H. R. Microeconomia. 7.ed. Rio de Janeiro: Campus, 2006.
 - VASCONCELLOS, Marco A. S. Manual de Microeconomia. São Paulo: Atlas, 2006.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [CORE Econ — The Economy](https://www.core-econ.org/) — livro aberto de introdução à economia; em inglês
+- [OpenStax — Principles of Economics 3e](https://openstax.org/details/books/principles-economics-3e) — livro aberto; em inglês
+- [Banco Central do Brasil](https://www.bcb.gov.br/) — Selic, inflação, câmbio e séries históricas
+- [IBGE](https://www.ibge.gov.br/) — PIB, emprego e indicadores econômicos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

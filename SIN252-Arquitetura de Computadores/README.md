@@ -91,10 +91,13 @@ Compreender como os programas escritos em uma linguagem de alto nível, como C o
 - TOCCI, R.; WIDMER, N.S.; MOSS, G. Sistemas digitais: princípios e aplicações. 10. ed. Prentice Hall, 2007.
 - WEBER, R.F. Fundamentos De Arquitetura de Computadores. 3. ed. Bookman, 2008.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [RARS — simulador RISC-V](https://github.com/TheThirdOne/rars) — montador e simulador em Java
+- [Ripes](https://github.com/mortbopet/Ripes) — simulador visual de pipeline e caches RISC-V
+- [Compiler Explorer](https://godbolt.org/) — mostra o assembly gerado por compiladores
+- [Computer Systems: A Programmer's Perspective (CS:APP)](https://csapp.cs.cmu.edu/) — site do livro com laboratórios; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

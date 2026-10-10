@@ -62,10 +62,13 @@ Conceitos básicos de matemática elementar, um estudo de funções elementares,
 - MEDEIROS, Valeria Zuma et al. Pré-cálculo. São Paulo: Editora Thomson, 2006. 474 p.
 - THOMAS, G. B. et al. Cálculo. Volume 1. 11. ed. São Paulo: Editora Pearson Education, 2009.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Khan Academy — Matemática](https://pt.khanacademy.org/math) — vídeos e exercícios em português
+- [OpenStax — College Algebra 2e](https://openstax.org/details/books/college-algebra-2e) — livro aberto; em inglês
+- [OpenStax — Precalculus 2e](https://openstax.org/details/books/precalculus-2e) — livro aberto; em inglês
+- [GeoGebra](https://www.geogebra.org/) — gráficos de funções e geometria interativa
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

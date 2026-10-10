@@ -85,10 +85,13 @@ Apresentar os conceitos básicos de Pesquisa Operacional: programação linear, 
 - WAGNER, Harvey M. Pesquisa operacional. 2ª ed. Rio de Janeiro: Prentice-Hall do Brasil, 1986. 851p.
 - MACULAN, N. and Fampa, M.H.C. Otimização Linear. Editora EdUnb, 2006
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Google OR-Tools](https://developers.google.com/optimization) — programação linear, inteira e roteamento; em inglês
+- [PuLP](https://coin-or.github.io/pulp/) — modelagem de programação linear em Python; em inglês
+- [MIT 15.053 — Optimization Methods in Management Science](https://ocw.mit.edu/courses/15-053-optimization-methods-in-management-science-spring-2013/) — MIT OpenCourseWare; em inglês
+- [GLPK — GNU Linear Programming Kit](https://www.gnu.org/software/glpk/) — solver livre
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

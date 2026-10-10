@@ -73,10 +73,14 @@ Revisar os conceitos de redes de computadores e apresentar mais informações so
 - PETERSON, L.L.; DAVIE, B.S. Redes de computadores: uma abordagem de sistemas. 3. ed. Elsevier, 2004.
 - STALLINGS, W. SNMP, SNMPV2, SNMPV3, and RMON 1 and 2. 3. ed. Massachusetts: Addison Wesley, 1999.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [The Debian Administrator's Handbook](https://debian-handbook.info/) — livro aberto sobre administração de servidores
+- [Ubuntu Server documentation](https://ubuntu.com/server/docs/) — em inglês
+- [Documentação do Zabbix](https://www.zabbix.com/documentation/current/) — monitoramento de redes e serviços
+- [Prometheus](https://prometheus.io/docs/) — monitoramento e alertas; em inglês
+- [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) — simulador de redes (cadastro gratuito na NetAcad)
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

@@ -54,10 +54,15 @@ Apresentar as principais atividades, técnicas, estratégias e ferramentas de te
 - ROPER, M. Software Testing, Mc Graw-Hill, 1994.
 - VON STA, ARNDT Engenharia de Programas, Rio de Janeiro, Livros Técnicos e Científicos, 1983.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Engenharia de Software Moderna — Cap. 8: Testes](https://engsoftmoderna.info/cap8.html) — em português
+- [ISTQB](https://www.istqb.org/) — syllabus de certificação em teste; em inglês
+- [BSTQB](https://bstqb.online/) — syllabus ISTQB em português
+- [Documentação do pytest](https://docs.pytest.org/) — em inglês
+- [Documentação do JUnit](https://docs.junit.org/) — em inglês
+- [Selenium](https://www.selenium.dev/documentation/) — testes automatizados de interface web; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

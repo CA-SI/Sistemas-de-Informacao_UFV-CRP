@@ -96,10 +96,13 @@ Fazer uma breve revisão de funções. Apresentar o cálculo diferencial e integ
 - SWOKOWSKI, E.W. Cálculo com geometria analítica. Makron Books, 1994. v. 1
 - THOMAS, George Brinton et al. Cálculo George B. Thomas: volume 1. 11. ed. São Paulo: Addison-Wesley, 2009.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [OpenStax — Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) — livro aberto; em inglês
+- [MIT 18.01SC — Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) — MIT OpenCourseWare; em inglês
+- [Khan Academy — Cálculo](https://pt.khanacademy.org/math/calculus-1) — vídeos e exercícios em português
+- [GeoGebra](https://www.geogebra.org/) — gráficos e visualização de limites, derivadas e integrais
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

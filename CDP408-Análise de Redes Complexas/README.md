@@ -77,10 +77,12 @@ Compreender os fundamentos teóricos de redes complexas Aplicar métricas e medi
 - ANGELIS, Andre F. de. Redes Complexas como Infraestrutura de Processamento Distribuído: Modelos e Simulações. Saarbrücken: Novas Edições Acadêmicas, 2020.
 - KEJRIWAL, Mayank; KNOBLOCK, Craig A.; SZEKELY, Pedro. Knowledge Graphs: Fundamentals, Techniques, and Applications. Cambridge: MIT Press, 2021.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Network Science (Albert-László Barabási)](https://networksciencebook.com/) — livro aberto e interativo; em inglês
+- [NetworkX](https://networkx.org/documentation/stable/) — análise de redes em Python; em inglês
+- [Gephi](https://gephi.org/) — visualização e análise de redes
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

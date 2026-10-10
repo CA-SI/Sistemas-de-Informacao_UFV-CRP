@@ -59,10 +59,13 @@ Apresentar de forma mais avançadas sistemas distribuídos e abordar temas de ed
 - DERSLER,F.J. Guia de Conectividade, Editora Campos, 1993.
 - TANENBAUM, A. S. Redes de computadores. 3ed., Campus, Rio de Janeiro, 1997.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Distributed Systems, 4ª ed. (van Steen & Tanenbaum)](https://www.distributed-systems.net/index.php/books/ds4/) — livro gratuito para download pessoal; em inglês
+- [MIT 6.5840 — Distributed Systems](https://pdos.csail.mit.edu/6.824/) — aulas, artigos e laboratórios em Go; em inglês
+- [Documentação do Kubernetes](https://kubernetes.io/pt-br/docs/home/) — orquestração de contêineres, em português
+- [Documentação do Docker](https://docs.docker.com/) — em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

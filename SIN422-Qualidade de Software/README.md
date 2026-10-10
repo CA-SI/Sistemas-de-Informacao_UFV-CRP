@@ -65,10 +65,14 @@ O objetivo da disciplina é introduzir conceitos relacionados a qualidade de pro
 - SMITH, D.J.; WOOD, K.B., Engineering Quality Software - "A review of current practices standards and guidelines including new methods and development tool", Elsevier Science Publishers Ltd., 1989.
 - SOMMERVILLE, I.; Engenharia de software. 8a Ed. Editora Pearson Prentice Hall, 2007.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [ISO/IEC 25010 — modelo de qualidade de produto](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) — resumo das características; em inglês
+- [MPS.BR (Softex)](https://mpsbr.softex.br/) — modelo brasileiro de melhoria de processo
+- [CMMI Institute](https://cmmiinstitute.com/) — em inglês
+- [Documentação do SonarQube](https://docs.sonarsource.com/sonarqube-server) — análise estática de qualidade de código; em inglês
+- [Engenharia de Software Moderna (Marco Tulio Valente)](https://engsoftmoderna.info/) — livro aberto em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

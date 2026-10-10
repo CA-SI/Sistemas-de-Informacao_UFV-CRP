@@ -59,10 +59,13 @@ Apresentar conceitos relacionados ao tema Realidade Virtual como: dispositivos, 
 - MACHADO, L.N.; OLIVEIRA, A. Realidade Virtual - Fundamentos e Aplicações. 1ª ed. Visual Books, 2004.
 - TORI, R.; KIRNER, C. Realidade Virtual - Conceitos e Tendências. 1ª ed. SENAC, 2004.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Virtual Reality (Steven LaValle)](https://lavalle.pl/vr/) — livro aberto; em inglês
+- [A-Frame](https://aframe.io/docs/) — realidade virtual na web; em inglês
+- [Immersive Web (WebXR)](https://immersiveweb.dev/) — padrão WebXR e exemplos; em inglês
+- [OpenXR (Khronos)](https://www.khronos.org/openxr/) — padrão aberto para RV e RA; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

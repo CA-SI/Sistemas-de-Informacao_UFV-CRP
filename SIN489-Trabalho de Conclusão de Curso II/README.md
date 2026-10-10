@@ -31,10 +31,18 @@ Aplicar e consolidar os conhecimentos adquiridos no decorrer do curso, preparand
 - OLIVEIRA NETTO, Alvim Antônio de. Metodologia da pesquisa científica: guia prático para apresentação de trabalhos acadêmicos. 2. ed. Visual Books, 2006.
 - RUDIO, Franz Victor. Introdução ao projeto de pesquisa científica. 34. ed. Vozes, 2007.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Modelo abnTeX2 do CASI para a UFV](https://github.com/CA-SI/modelo-documentos-abntex-UFV) — modelo de monografia e artigo
+- [LOCUS — Repositório Institucional da UFV](https://locus.ufv.br/) — monografias, dissertações e teses da UFV
+- [BDTD — Biblioteca Digital Brasileira de Teses e Dissertações](https://bdtd.ibict.br/) — trabalhos de todo o país
+- [Portal de Periódicos CAPES](https://www.periodicos.capes.gov.br/) — acesso a bases pagas pela rede da UFV
+- [SBC OpenLib (SOL)](https://sol.sbc.org.br/) — anais e periódicos da Sociedade Brasileira de Computação
+- [Google Acadêmico](https://scholar.google.com/) — busca de artigos e citações
+- [Zotero](https://www.zotero.org/) — gerenciador de referências livre
+- [Overleaf](https://www.overleaf.com/) — editor LaTeX online e colaborativo
+- [abnTeX2](https://www.abntex.net.br/) — classes LaTeX para normas ABNT
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

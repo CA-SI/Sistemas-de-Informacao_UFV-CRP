@@ -114,10 +114,13 @@ Estudar a estrutura e a função dos computadores. Apresentar aos alunos os conc
 - PATTERSON, D. A. HENNESSY, J. L. Organização e Arquitetura de computadores: a interface hardware/software. 3 ed. Elsevier, 2005.
 - PATTERSON, D.A.; HENNESSY, J.L. Organização e projeto de computadores. 3.ed. Campus, 2005.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Nand2Tetris](https://www.nand2tetris.org/) — construa um computador da porta lógica ao sistema operacional; em inglês
+- [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) — simulador de circuitos digitais
+- [MIT 6.004 — Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) — MIT OpenCourseWare; em inglês
+- [Computer Systems: A Programmer's Perspective (CS:APP)](https://csapp.cs.cmu.edu/) — site do livro com laboratórios; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

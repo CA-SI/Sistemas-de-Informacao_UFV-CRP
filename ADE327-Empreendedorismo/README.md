@@ -70,10 +70,13 @@ A disciplina busca levar os conceitos e abordagem teóricas sobre empreendedoris
 - SPEADALE, S.; WATSON, T. The emergence of entrepreneurial action: at the crossroads between institutional logics and individual life-orientation. Internacional Small Business Journal. v 32, n 7, 2014. 759-776p.
 - ZAMPIER, M. A.; TAKAHASHI, A. R. W. Competências empreendedoras e processos de aprendizagem empreendedora: modelo conceitual de pesquisa. CADERNOS EBAPE.BR, v. 9, Edição Especial, artigo 6, Rio de Janeiro, Jul. 2011.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [OpenStax — Entrepreneurship](https://openstax.org/details/books/entrepreneurship) — livro aberto; em inglês
+- [Sebrae](https://sebrae.com.br/) — plano de negócios, formalização e cursos gratuitos
+- [Business Model Canvas (Strategyzer)](https://www.strategyzer.com/library/the-business-model-canvas) — modelo de negócios em uma página; em inglês
+- [Startup School (Y Combinator)](https://www.startupschool.org/) — curso gratuito sobre startups; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

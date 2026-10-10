@@ -96,10 +96,13 @@ Apresentar aos alunos todos os conceitos e técnicas de reconhecimento de padrõ
 - MITCHELL, T. Machine Learning, Edição 1. McGraw Hill, 1997.
 - Theodoridis, S.; Koutroumbas, K. Pattern Recognition. Edição 1. Elsevier, 2008.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) — livro aberto com versões em R e Python; em inglês
+- [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) — livro disponível gratuitamente em PDF; em inglês
+- [Guia do usuário do scikit-learn](https://scikit-learn.org/stable/user_guide.html) — em inglês
+- [Kaggle Learn](https://www.kaggle.com/learn) — microcursos práticos e bases de dados; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

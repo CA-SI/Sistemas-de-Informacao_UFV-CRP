@@ -62,10 +62,13 @@ Estimular o desenvolvimento de habilidades e competências do estudante de nutri
 - PAIM, J. S. Reforma Sanitária Brasileira: contribuição para a compreensão e crítica. Salvador: EDUFBA; Rio de Janeiro: FIOCRUZ, 2008. 356 p.
 - SOS Saúde. Sicko. Documentário. EUA. Direção Michael Moore http://www.adorocinema.com/personalidades/personalidade-12457/: Lions Gate Films, 2007. 1 h 53 min.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [Lei Orgânica da Saúde (Lei 8.080/1990)](https://www.planalto.gov.br/ccivil_03/leis/l8080.htm) — texto oficial
+- [Ministério da Saúde](https://www.gov.br/saude/pt-br) — políticas e programas do SUS
+- [Fiocruz](https://fiocruz.br/) — pesquisa e publicações em saúde pública
+- [SciELO Saúde Pública](https://www.scielosp.org/) — artigos de acesso aberto
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

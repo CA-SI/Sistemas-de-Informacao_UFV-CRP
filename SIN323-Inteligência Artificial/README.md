@@ -102,10 +102,15 @@ Ensinar ao aluno os conceitos básicos da Inteligência Artificial clássica e a
 - STEINBACH, M.; KUMAR, V.; TAN, P. Introdução ao Data Mining - Mineração de Dados. Editora: Ciência Moderna, 2009.
 - NICOLETTI, M. C. A Cartilha Prolog. EDUFSCAR. 2005.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Artificial Intelligence: A Modern Approach — site do livro](https://aima.cs.berkeley.edu/) — código, slides e exercícios (Russell & Norvig); em inglês
+- [Berkeley CS188 — Introduction to AI](https://inst.eecs.berkeley.edu/~cs188/) — aulas e projetos Pac-Man; em inglês
+- [SWI-Prolog](https://www.swi-prolog.org/) — interpretador Prolog e documentação
+- [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn/) — livro aberto de Prolog; em inglês
+- [Guia do usuário do scikit-learn](https://scikit-learn.org/stable/user_guide.html) — aprendizado de máquina em Python; em inglês
+- [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course) — curso gratuito; em inglês
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

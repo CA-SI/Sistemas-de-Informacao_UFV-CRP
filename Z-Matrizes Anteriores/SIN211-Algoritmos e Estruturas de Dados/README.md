@@ -92,10 +92,15 @@ Estudar os diversos mecanismos de organização de dados (estrutura de dados) e 
 - ZIVIANI, N. Projeto de algoritmos: com implementações em Pascal e C. 2.ed. Thomson, 2004.
 - ZIVIANI, N. Projeto de Algoritmos: com implementações em Java e C . Thomson, 2007.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../../README.md#como-contribuir).
+- [Projeto de Algoritmos em C (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/algoritmos/) — notas de aula em português
+- [VisuAlgo](https://visualgo.net/) — animações de estruturas de dados e algoritmos
+- [Data Structure Visualizations (USF)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) — animações interativas; em inglês
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/) — guia gratuito de C; em inglês
+- [cppreference — C](https://en.cppreference.com/c) — referência da linguagem e da biblioteca padrão; em inglês
+- [Análise de Algoritmos (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/analise_de_algoritmos/) — notas de aula em português
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

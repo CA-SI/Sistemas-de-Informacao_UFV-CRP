@@ -45,10 +45,15 @@ Compreender conceitos básicos de Bancos de Dados Geográficos. Projetar, implem
 - TEOREY, Tobey J; VIEIRA, Daniel. Projeto e modelagem de banco de dados. 2 ed. Rio de Janeiro: Elsevier, 2014. 309 p. ISBN 9788535264456 (broch.).
 - ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 6 ed. São Paulo: Pearson Addison Wesley, 2011. xviii, 788 p. ISBN 9788579360855 (broch.).
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Tutorial: Introdução a Bancos de Dados Geográficos (INPE)](http://www.dpi.inpe.br/DPI/livros/pdfs/tutorialbdgeo_geobrasil2006.pdf) — PDF em português
+- [Introdução à Ciência da Geoinformação (INPE)](http://www.dpi.inpe.br/gilberto/livro/introd/) — livro aberto em português
+- [Documentação do PostGIS](https://postgis.net/documentation/) — em inglês
+- [Documentação do QGIS](https://docs.qgis.org/latest/pt_BR/docs/) — SIG livre, em português
+- [IBGE — downloads de geociências](https://www.ibge.gov.br/geociencias/downloads-geociencias.html) — malhas territoriais e bases cartográficas
+- [OpenStreetMap](https://www.openstreetmap.org/) — dados geográficos abertos
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

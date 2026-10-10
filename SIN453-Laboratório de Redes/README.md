@@ -64,10 +64,13 @@ Colocar em prática todos os conceitos aprendidos em redes de computadores.
 - DUTRA, L. S.V.; CRUZ, MARCOS A.C.; CEREDA, R.L.D.; SEWAYBRICKER, RODRIGUES, R. - ATM: O Futuro das Redes, Makron Books, 1997.
 - TANENBAUM, A.S. Computer Networks, 3nd Ed., Prentice Hall, 1996.
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer) — simulador de redes (cadastro gratuito na NetAcad)
+- [GNS3](https://www.gns3.com/) — emulador de redes
+- [Mininet](https://mininet.org/) — emulação de redes e SDN
+- [Documentação do Wireshark](https://www.wireshark.org/docs/) — captura e análise de pacotes
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>

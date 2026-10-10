@@ -97,10 +97,12 @@ Apresentar os conceitos contábeis básicos da Contabilidade, seus fundamentos t
 - IUDÍCIBUS, S.; MARTINS, E.; GELBCKE, E. R.; SANTOS, A. dos. Manual de Contabilidade Societária: Aplicável a todas as Sociedades de Acordo com as Normas Internacionais e do CPC. FIPECAFI. São Paulo: Atlas, 2010.
 - KIYOSAKI, ROBERT T. Pai rico, pai pobre: o que os ricos ensinam a seus filhos sobre dinheiro. 54a. ed. São Paulo: Campus, 2000
 
-## Materiais neste repositório
+## Referências úteis
 
-Ainda não há materiais nesta pasta. Veja [como contribuir](../README.md#como-contribuir).
+- [OpenStax — Principles of Accounting, Volume 1](https://openstax.org/details/books/principles-financial-accounting) — livro aberto; em inglês
+- [Comitê de Pronunciamentos Contábeis (CPC)](https://www.cpc.org.br/) — normas contábeis brasileiras
+- [Conselho Federal de Contabilidade](https://cfc.org.br/) — legislação e normas da profissão
 
 ---
 
-<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV. Gerado por `scripts/catalogo.py`; edite o script, não este arquivo.</sub>
+<sub>Ementa, objetivos, conteúdo e bibliografia transcritos do programa analítico oficial da UFV; referências úteis em `dados/referencias.json`. Tem material ou indicação desta disciplina? [Contribua](../README.md#como-contribuir). Gerado por `scripts/catalogo.py`; edite o script ou os dados, não este arquivo.</sub>
