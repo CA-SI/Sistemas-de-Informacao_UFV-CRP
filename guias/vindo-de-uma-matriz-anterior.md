@@ -1,14 +1,14 @@
 ---
-titulo: Vindo de uma matriz anterior
-resumo: O que mudou da matriz anterior para a de 2026 e onde ficam as disciplinas que saíram, com as correspondências de conteúdo.
+titulo: "Vindo de uma matriz anterior"
+resumo: "O que mudou da matriz anterior para a de 2026 e onde ficam as disciplinas que saíram, com as correspondências de conteúdo."
 icone: history
 ordem: 5
 atualizado_em: 2026-10-10
 fontes:
-  - titulo: Catálogo de Graduação UFV 2026 — matriz de Sistemas de Informação
-    url: https://catalogo.ufv.br/matriz.php?campus=crp&complemento=*&curso=SIP&ano=2026
-  - titulo: Matriz curricular e planos de estudo no site do curso
-    url: https://sin.crp.ufv.br/matriz-curricular/
+  - titulo: "Catálogo de Graduação UFV 2026 — matriz de Sistemas de Informação"
+    url: "https://catalogo.ufv.br/matriz.php?campus=crp&complemento=*&curso=SIP&ano=2026"
+  - titulo: "Matriz curricular e planos de estudo no site do curso"
+    url: "https://sin.crp.ufv.br/matriz-curricular/"
 ---
 
 Se você entrou no curso com uma matriz anterior, algumas disciplinas suas mudaram de código ou saíram da grade. As principais mudanças da matriz 2026:

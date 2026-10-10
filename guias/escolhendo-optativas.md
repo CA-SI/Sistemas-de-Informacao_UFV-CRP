@@ -1,12 +1,12 @@
 ---
-titulo: Escolhendo optativas
-resumo: As 35 optativas da matriz 2026 agrupadas por área, com carga e pré-requisitos, para montar as 360 h exigidas.
+titulo: "Escolhendo optativas"
+resumo: "As 35 optativas da matriz 2026 agrupadas por área, com carga e pré-requisitos, para montar as 360 h exigidas."
 icone: compass
 ordem: 4
 atualizado_em: 2026-10-10
 fontes:
-  - titulo: Catálogo de Graduação UFV 2026 — matriz de Sistemas de Informação
-    url: https://catalogo.ufv.br/matriz.php?campus=crp&complemento=*&curso=SIP&ano=2026
+  - titulo: "Catálogo de Graduação UFV 2026 — matriz de Sistemas de Informação"
+    url: "https://catalogo.ufv.br/matriz.php?campus=crp&complemento=*&curso=SIP&ano=2026"
 ---
 
 Além das obrigatórias, a matriz 2026 exige **360 h em disciplinas optativas**. Isso equivale, por exemplo, a seis optativas de 60 h. Algumas têm carga menor: [SIN 453](<../SIN453-Laboratório de Redes/>) e [SIN 491](<../SIN491-Tópicos Especiais I/>) têm 30 h, e [CRP 280](<../CRP280-LIBRAS Língua Brasileira de Sinais/>) tem 45 h.

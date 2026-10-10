@@ -1,20 +1,20 @@
 ---
-titulo: Trabalho de Conclusão de Curso
-resumo: Como o TCC se distribui entre SIN 100, SIN 488 e SIN 489, o que o catálogo pede e onde encontrar modelos e trabalhos anteriores.
+titulo: "Trabalho de Conclusão de Curso"
+resumo: "Como o TCC se distribui entre SIN 100, SIN 488 e SIN 489, o que o catálogo pede e onde encontrar modelos e trabalhos anteriores."
 icone: graduation-cap
 ordem: 2
 atualizado_em: 2026-10-10
 fontes:
-  - titulo: Programa analítico SIN 488 — TCC I
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20488&ano=2026
-  - titulo: Programa analítico SIN 489 — TCC II
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20489&ano=2026
-  - titulo: Programa analítico SIN 100
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20100&ano=2026
-  - titulo: Programa analítico SIN 490
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20490&ano=2026
-  - titulo: LOCUS — Repositório Institucional da UFV
-    url: https://locus.ufv.br/
+  - titulo: "Programa analítico SIN 488 — TCC I"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20488&ano=2026"
+  - titulo: "Programa analítico SIN 489 — TCC II"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20489&ano=2026"
+  - titulo: "Programa analítico SIN 100"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20100&ano=2026"
+  - titulo: "Programa analítico SIN 490"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20490&ano=2026"
+  - titulo: "LOCUS — Repositório Institucional da UFV"
+    url: "https://locus.ufv.br/"
 ---
 
 Na matriz 2026, o TCC ocupa duas disciplinas obrigatórias seguidas. Antes delas vem uma disciplina de método.

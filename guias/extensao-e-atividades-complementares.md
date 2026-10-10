@@ -1,18 +1,18 @@
 ---
-titulo: Extensão e atividades complementares
-resumo: As 330 h de extensão e atividades complementares da matriz 2026: o que conta, quando cursar e como comprovar.
+titulo: "Extensão e atividades complementares"
+resumo: "As 330 h de extensão e atividades complementares da matriz 2026: o que conta, quando cursar e como comprovar."
 icone: hand-heart
 ordem: 3
 atualizado_em: 2026-10-10
 fontes:
-  - titulo: Programa analítico SIN 495 — Projeto Integralizador de Extensão
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20495&ano=2026
-  - titulo: Programa analítico SIN 497 — Atividades de Extensão
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20497&ano=2026
-  - titulo: Programa analítico SIN 494 — Atividades Complementares
-    url: https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20494&ano=2026
-  - titulo: Pró-Reitoria de Extensão e Cultura da UFV
-    url: https://pec.ufv.br/
+  - titulo: "Programa analítico SIN 495 — Projeto Integralizador de Extensão"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20495&ano=2026"
+  - titulo: "Programa analítico SIN 497 — Atividades de Extensão"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20497&ano=2026"
+  - titulo: "Programa analítico SIN 494 — Atividades Complementares"
+    url: "https://catalogo.ufv.br/pdf.php?campus=crp&disciplina=SIN%20494&ano=2026"
+  - titulo: "Pró-Reitoria de Extensão e Cultura da UFV"
+    url: "https://pec.ufv.br/"
 ---
 
 A matriz 2026 reserva três disciplinas obrigatórias para atividades fora da sala de aula, somando 330 h.

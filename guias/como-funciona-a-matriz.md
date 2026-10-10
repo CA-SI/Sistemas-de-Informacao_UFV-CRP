@@ -1,14 +1,14 @@
 ---
-titulo: Como funciona a matriz curricular
-resumo: Carga horária, prazos, períodos, pré-requisitos e correquisitos da matriz 2026 de Sistemas de Informação.
+titulo: "Como funciona a matriz curricular"
+resumo: "Carga horária, prazos, períodos, pré-requisitos e correquisitos da matriz 2026 de Sistemas de Informação."
 icone: map
 ordem: 1
 atualizado_em: 2026-10-10
 fontes:
-  - titulo: Catálogo de Graduação UFV 2026 — matriz de Sistemas de Informação
-    url: https://catalogo.ufv.br/matriz.php?campus=crp&complemento=*&curso=SIP&ano=2026
-  - titulo: Matriz curricular no site do curso
-    url: https://sin.crp.ufv.br/matriz-curricular/
+  - titulo: "Catálogo de Graduação UFV 2026 — matriz de Sistemas de Informação"
+    url: "https://catalogo.ufv.br/matriz.php?campus=crp&complemento=*&curso=SIP&ano=2026"
+  - titulo: "Matriz curricular no site do curso"
+    url: "https://sin.crp.ufv.br/matriz-curricular/"
 ---
 
 A matriz em vigor é a do Catálogo de Graduação UFV 2026. Ela define quais disciplinas são obrigatórias, em que período cada uma é sugerida e o que é preciso ter cursado antes.
