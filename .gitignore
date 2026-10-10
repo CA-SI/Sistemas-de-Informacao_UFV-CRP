@@ -231,3 +231,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,macos,linux,windows,jetbrains
+# Capturas temporárias do Playwright MCP
+.playwright-mcp/
